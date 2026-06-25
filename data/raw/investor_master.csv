@@ -1,0 +1,5 @@
+investor_id,investor_name,state,kyc_status
+1001,Rahul,UP,Verified
+1002,Priya,Delhi,Pending
+1003,Ankit,Maharashtra,Verified
+1004,Sneha,Karnataka,Rejected

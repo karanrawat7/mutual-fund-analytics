@@ -1,0 +1,6 @@
+transaction_id,investor_id,amfi_code,transaction_type,amount,date,kyc_status
+1,1001,101,SIP,5000,2026-01-02,Verified
+2,1002,102,Lumpsum,15000,,Pending
+3,1003,103,Redemption,7000,,Verified
+4,1001,101,SIP,5000,,Rejected
+5,1004,102,Lumpsum,10000,,Verified
