@@ -74,3 +74,14 @@ This document describes all datasets, columns, data types, business definitions,
 | month_name | TEXT | Month name |
 | quarter | INTEGER | Quarter of the year |
 | year | INTEGER | Calendar year |
+
+---
+
+# 7. investor_master
+
+| Column | Data Type | Business Definition | Source |
+|---------|-----------|---------------------|--------|
+| investor_id | INTEGER | Unique investor ID | investor_master.csv |
+| investor_name | TEXT | Name of the investor | investor_master.csv |
+| state | TEXT | Standardised 2-letter state code | investor_master.csv |
+| kyc_status | TEXT | KYC status (Verified, Pending, Rejected) | investor_master.csv |

@@ -41,7 +41,7 @@ CREATE TABLE fact_performance (
     five_year_return REAL,
     expense_ratio REAL,
     FOREIGN KEY (amfi_code) REFERENCES dim_fund(amfi_code)
-)
+);
 CREATE TABLE fact_aum (
     aum_id INTEGER PRIMARY KEY AUTOINCREMENT,
     amfi_code INTEGER,

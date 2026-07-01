@@ -12,7 +12,8 @@ tables = [
     "fact_nav",
     "fact_transactions",
     "fact_performance",
-    "fact_aum"
+    "fact_aum",
+    "investor_master"
 ]
 
 for table in tables:

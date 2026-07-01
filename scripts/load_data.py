@@ -38,4 +38,8 @@ perf_df.to_sql("fact_performance", engine, if_exists="replace", index=False)
 aum_df = pd.read_csv(os.path.join(RAW_DIR, "aum_history.csv"))
 aum_df.to_sql("fact_aum", engine, if_exists="replace", index=False)
 
-print("✅ All data loaded successfully!")
+# Load investor_master
+investor_df = pd.read_csv(os.path.join(PROCESSED_DIR, "investor_master_clean.csv"))
+investor_df.to_sql("investor_master", engine, if_exists="replace", index=False)
+
+print("[OK] All data loaded successfully!")
