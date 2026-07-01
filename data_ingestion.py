@@ -77,10 +77,10 @@ def explore_fund_master(fund_master_df):
 
     print("\nAMFI Scheme Code Structure")
     print("---------------------------")
-    print("• Every mutual fund scheme has a unique AMFI Scheme Code.")
-    print("• It is used to identify a scheme across datasets.")
-    print("• This code links fund_master with nav_history.")
-    print("• One scheme should have one unique AMFI code.")
+    print("- Every mutual fund scheme has a unique AMFI Scheme Code.")
+    print("- It is used to identify a scheme across datasets.")
+    print("- This code links fund_master with nav_history.")
+    print("- One scheme should have one unique AMFI code.")
 
     if "fund_house" in fund_master_df.columns:
         print("\nUnique Fund Houses:")
@@ -109,14 +109,14 @@ def validate_amfi_codes(fund_master_df, nav_history_df):
     print("=" * 70)
 
     if (
-        "scheme_code" not in fund_master_df.columns
-        or "scheme_code" not in nav_history_df.columns
+        "amfi_code" not in fund_master_df.columns
+        or "amfi_code" not in nav_history_df.columns
     ):
-        print("scheme_code column not found.")
+        print("amfi_code column not found.")
         return
 
-    master_codes = set(fund_master_df["scheme_code"].unique())
-    history_codes = set(nav_history_df["scheme_code"].unique())
+    master_codes = set(fund_master_df["amfi_code"].unique())
+    history_codes = set(nav_history_df["amfi_code"].unique())
 
     missing_codes = master_codes - history_codes
 
@@ -127,14 +127,14 @@ def validate_amfi_codes(fund_master_df, nav_history_df):
 
         print("\nData Quality Summary")
         print("--------------------")
-        print("✅ All AMFI codes in fund_master are present in nav_history.")
+        print("[OK] All AMFI codes in fund_master are present in nav_history.")
         print("No missing scheme codes found.")
 
     else:
 
         print("\nData Quality Summary")
         print("--------------------")
-        print(f"❌ Missing AMFI Codes : {len(missing_codes)}")
+        print(f"[ERROR] Missing AMFI Codes : {len(missing_codes)}")
 
         print("\nMissing Codes:")
         for code in sorted(missing_codes):
