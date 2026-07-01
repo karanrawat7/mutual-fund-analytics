@@ -50,3 +50,24 @@ CREATE TABLE fact_aum (
     FOREIGN KEY (amfi_code) REFERENCES dim_fund(amfi_code),
     FOREIGN KEY (date_id) REFERENCES dim_date(date_id)
 );
+
+CREATE TABLE fact_metrics (
+    scheme_code INTEGER PRIMARY KEY,
+    scheme_name TEXT,
+    category TEXT,
+    expense_ratio REAL,
+    cagr_1y REAL,
+    cagr_3y REAL,
+    cagr_5y REAL,
+    sharpe_ratio REAL,
+    sortino_ratio REAL,
+    alpha REAL,
+    beta REAL,
+    max_drawdown REAL,
+    drawdown_start TEXT,
+    drawdown_end TEXT,
+    tracking_error_nifty50 REAL,
+    tracking_error_nifty100 REAL,
+    scorecard REAL,
+    FOREIGN KEY (scheme_code) REFERENCES dim_fund(amfi_code)
+);

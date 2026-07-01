@@ -1,0 +1,41 @@
+scheme_code,scheme_name,fund_house,category,sub_category,risk_grade,expense_ratio
+100001,SBI Small Cap Fund - Direct,SBI Mutual Fund,Equity,Small Cap,Very High,1.78
+100002,HDFC Gilt Fund Fund - Direct,HDFC Mutual Fund,Debt,Gilt Fund,Low to Moderate,1.65
+100003,ICICI Aggressive Hybrid Fund - Direct,ICICI Prudential MF,Hybrid,Aggressive Hybrid,Moderately High,1.37
+100004,Nippon Mid Cap Fund - Direct,Nippon India Mutual Fund,Equity,Mid Cap,Very High,0.47
+100005,Axis Gilt Fund Fund - Direct,Axis Mutual Fund,Debt,Gilt Fund,Low to Moderate,1.09
+100006,Kotak Aggressive Hybrid Fund - Direct,Kotak Mutual Fund,Hybrid,Aggressive Hybrid,Moderately High,1.38
+100007,DSP Sectoral Fund - Direct,DSP Mutual Fund,Equity,Sectoral,Very High,1.48
+100008,Aditya Liquid Fund Fund - Direct,Aditya Birla Sun Life MF,Debt,Liquid Fund,Low to Moderate,2.14
+100009,UTI Balanced Advantage Fund - Direct,UTI Mutual Fund,Hybrid,Balanced Advantage,Moderately High,0.59
+100010,Tata Sectoral Fund - Direct,Tata Mutual Fund,Equity,Sectoral,Very High,2.18
+100011,SBI Liquid Fund Fund - Direct,SBI Mutual Fund,Debt,Liquid Fund,Low to Moderate,0.77
+100012,HDFC Balanced Advantage Fund - Direct,HDFC Mutual Fund,Hybrid,Balanced Advantage,Moderately High,0.16
+100013,ICICI Large Cap Fund - Direct,ICICI Prudential MF,Equity,Large Cap,Very High,0.75
+100014,Nippon Gilt Fund Fund - Direct,Nippon India Mutual Fund,Debt,Gilt Fund,Low to Moderate,0.97
+100015,Axis Multi Asset Allocation Fund - Direct,Axis Mutual Fund,Hybrid,Multi Asset Allocation,Moderately High,1.08
+100016,Kotak Small Cap Fund - Direct,Kotak Mutual Fund,Equity,Small Cap,Very High,1.42
+100017,DSP Gilt Fund Fund - Direct,DSP Mutual Fund,Debt,Gilt Fund,Low to Moderate,2.17
+100018,Aditya Aggressive Hybrid Fund - Direct,Aditya Birla Sun Life MF,Hybrid,Aggressive Hybrid,Moderately High,0.25
+100019,UTI Small Cap Fund - Direct,UTI Mutual Fund,Equity,Small Cap,Very High,1.54
+100020,Tata Liquid Fund Fund - Direct,Tata Mutual Fund,Debt,Liquid Fund,Low to Moderate,0.28
+100021,SBI Aggressive Hybrid Fund - Direct,SBI Mutual Fund,Hybrid,Aggressive Hybrid,Moderately High,2.13
+100022,HDFC Mid Cap Fund - Direct,HDFC Mutual Fund,Equity,Mid Cap,Very High,0.94
+100023,ICICI Corporate Bond Fund - Direct,ICICI Prudential MF,Debt,Corporate Bond,Low to Moderate,0.35
+100024,Nippon Multi Asset Allocation Fund - Direct,Nippon India Mutual Fund,Hybrid,Multi Asset Allocation,Moderately High,1.55
+100025,Axis Sectoral Fund - Direct,Axis Mutual Fund,Equity,Sectoral,Very High,1.17
+100026,Kotak Gilt Fund Fund - Direct,Kotak Mutual Fund,Debt,Gilt Fund,Low to Moderate,0.51
+100027,DSP Aggressive Hybrid Fund - Direct,DSP Mutual Fund,Hybrid,Aggressive Hybrid,Moderately High,0.68
+100028,Aditya Sectoral Fund - Direct,Aditya Birla Sun Life MF,Equity,Sectoral,Very High,1.7
+100029,UTI Corporate Bond Fund - Direct,UTI Mutual Fund,Debt,Corporate Bond,Low to Moderate,1.22
+100030,Tata Balanced Advantage Fund - Direct,Tata Mutual Fund,Hybrid,Balanced Advantage,Moderately High,1.31
+100031,SBI Large Cap Fund - Direct,SBI Mutual Fund,Equity,Large Cap,Very High,2.14
+100032,HDFC Corporate Bond Fund - Direct,HDFC Mutual Fund,Debt,Corporate Bond,Low to Moderate,1.07
+100033,ICICI Balanced Advantage Fund - Direct,ICICI Prudential MF,Hybrid,Balanced Advantage,Moderately High,1.98
+100034,Nippon Mid Cap Fund - Direct,Nippon India Mutual Fund,Equity,Mid Cap,Very High,1.64
+100035,Axis Gilt Fund Fund - Direct,Axis Mutual Fund,Debt,Gilt Fund,Low to Moderate,0.33
+100036,Kotak Multi Asset Allocation Fund - Direct,Kotak Mutual Fund,Hybrid,Multi Asset Allocation,Moderately High,1.22
+100037,DSP Mid Cap Fund - Direct,DSP Mutual Fund,Equity,Mid Cap,Very High,0.82
+100038,Aditya Liquid Fund Fund - Direct,Aditya Birla Sun Life MF,Debt,Liquid Fund,Low to Moderate,0.71
+100039,UTI Aggressive Hybrid Fund - Direct,UTI Mutual Fund,Hybrid,Aggressive Hybrid,Moderately High,1.35
+100040,Tata Large Cap Fund - Direct,Tata Mutual Fund,Equity,Large Cap,Very High,0.73

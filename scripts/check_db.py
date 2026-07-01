@@ -13,7 +13,16 @@ tables = [
     "fact_transactions",
     "fact_performance",
     "fact_aum",
-    "investor_master"
+    "investor_master",
+    "dim_fund_synthetic",
+    "fact_nav_synthetic",
+    "fact_aum_synthetic",
+    "fact_sip_inflow",
+    "dim_investor_synthetic",
+    "fact_holdings",
+    "fact_benchmarks",
+    "fact_metrics",
+    "fact_folio_growth"
 ]
 
 for table in tables:

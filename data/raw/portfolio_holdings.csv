@@ -1,0 +1,141 @@
+scheme_code,scheme_name,sector,holding_percentage
+100001,SBI Small Cap Fund - Direct,Financial Services,1.04
+100001,SBI Small Cap Fund - Direct,IT,1.75
+100001,SBI Small Cap Fund - Direct,Oil & Gas,18.09
+100001,SBI Small Cap Fund - Direct,Automobile,19.13
+100001,SBI Small Cap Fund - Direct,Consumer Goods,4.51
+100001,SBI Small Cap Fund - Direct,Pharma,2.97
+100001,SBI Small Cap Fund - Direct,Metals,0.81
+100001,SBI Small Cap Fund - Direct,Construction,7.9
+100001,SBI Small Cap Fund - Direct,Power,10.35
+100001,SBI Small Cap Fund - Direct,Telecom,33.43
+100004,Nippon Mid Cap Fund - Direct,Financial Services,0.03
+100004,Nippon Mid Cap Fund - Direct,IT,7.21
+100004,Nippon Mid Cap Fund - Direct,Oil & Gas,7.52
+100004,Nippon Mid Cap Fund - Direct,Automobile,30.13
+100004,Nippon Mid Cap Fund - Direct,Consumer Goods,3.02
+100004,Nippon Mid Cap Fund - Direct,Pharma,0.95
+100004,Nippon Mid Cap Fund - Direct,Metals,6.65
+100004,Nippon Mid Cap Fund - Direct,Construction,13.12
+100004,Nippon Mid Cap Fund - Direct,Power,27.03
+100004,Nippon Mid Cap Fund - Direct,Telecom,4.34
+100007,DSP Sectoral Fund - Direct,Financial Services,2.87
+100007,DSP Sectoral Fund - Direct,IT,3.92
+100007,DSP Sectoral Fund - Direct,Oil & Gas,1.25
+100007,DSP Sectoral Fund - Direct,Automobile,37.55
+100007,DSP Sectoral Fund - Direct,Consumer Goods,7.72
+100007,DSP Sectoral Fund - Direct,Pharma,3.16
+100007,DSP Sectoral Fund - Direct,Metals,4.46
+100007,DSP Sectoral Fund - Direct,Construction,19.95
+100007,DSP Sectoral Fund - Direct,Power,11.12
+100007,DSP Sectoral Fund - Direct,Telecom,8.0
+100010,Tata Sectoral Fund - Direct,Financial Services,10.2
+100010,Tata Sectoral Fund - Direct,IT,11.15
+100010,Tata Sectoral Fund - Direct,Oil & Gas,1.71
+100010,Tata Sectoral Fund - Direct,Automobile,1.37
+100010,Tata Sectoral Fund - Direct,Consumer Goods,26.9
+100010,Tata Sectoral Fund - Direct,Pharma,1.62
+100010,Tata Sectoral Fund - Direct,Metals,4.94
+100010,Tata Sectoral Fund - Direct,Construction,32.12
+100010,Tata Sectoral Fund - Direct,Power,4.27
+100010,Tata Sectoral Fund - Direct,Telecom,5.72
+100013,ICICI Large Cap Fund - Direct,Financial Services,19.12
+100013,ICICI Large Cap Fund - Direct,IT,4.97
+100013,ICICI Large Cap Fund - Direct,Oil & Gas,6.73
+100013,ICICI Large Cap Fund - Direct,Automobile,4.82
+100013,ICICI Large Cap Fund - Direct,Consumer Goods,4.05
+100013,ICICI Large Cap Fund - Direct,Pharma,7.62
+100013,ICICI Large Cap Fund - Direct,Metals,16.36
+100013,ICICI Large Cap Fund - Direct,Construction,24.12
+100013,ICICI Large Cap Fund - Direct,Power,7.58
+100013,ICICI Large Cap Fund - Direct,Telecom,4.62
+100016,Kotak Small Cap Fund - Direct,Financial Services,21.88
+100016,Kotak Small Cap Fund - Direct,IT,3.69
+100016,Kotak Small Cap Fund - Direct,Oil & Gas,13.46
+100016,Kotak Small Cap Fund - Direct,Automobile,12.46
+100016,Kotak Small Cap Fund - Direct,Consumer Goods,0.46
+100016,Kotak Small Cap Fund - Direct,Pharma,1.76
+100016,Kotak Small Cap Fund - Direct,Metals,7.67
+100016,Kotak Small Cap Fund - Direct,Construction,18.24
+100016,Kotak Small Cap Fund - Direct,Power,8.13
+100016,Kotak Small Cap Fund - Direct,Telecom,12.25
+100019,UTI Small Cap Fund - Direct,Financial Services,17.89
+100019,UTI Small Cap Fund - Direct,IT,9.2
+100019,UTI Small Cap Fund - Direct,Oil & Gas,11.1
+100019,UTI Small Cap Fund - Direct,Automobile,1.0
+100019,UTI Small Cap Fund - Direct,Consumer Goods,35.45
+100019,UTI Small Cap Fund - Direct,Pharma,15.14
+100019,UTI Small Cap Fund - Direct,Metals,2.26
+100019,UTI Small Cap Fund - Direct,Construction,3.77
+100019,UTI Small Cap Fund - Direct,Power,0.06
+100019,UTI Small Cap Fund - Direct,Telecom,4.14
+100022,HDFC Mid Cap Fund - Direct,Financial Services,4.28
+100022,HDFC Mid Cap Fund - Direct,IT,12.91
+100022,HDFC Mid Cap Fund - Direct,Oil & Gas,7.27
+100022,HDFC Mid Cap Fund - Direct,Automobile,20.78
+100022,HDFC Mid Cap Fund - Direct,Consumer Goods,1.02
+100022,HDFC Mid Cap Fund - Direct,Pharma,13.79
+100022,HDFC Mid Cap Fund - Direct,Metals,23.35
+100022,HDFC Mid Cap Fund - Direct,Construction,6.14
+100022,HDFC Mid Cap Fund - Direct,Power,3.83
+100022,HDFC Mid Cap Fund - Direct,Telecom,6.63
+100025,Axis Sectoral Fund - Direct,Financial Services,22.99
+100025,Axis Sectoral Fund - Direct,IT,37.16
+100025,Axis Sectoral Fund - Direct,Oil & Gas,1.0
+100025,Axis Sectoral Fund - Direct,Automobile,11.11
+100025,Axis Sectoral Fund - Direct,Consumer Goods,15.09
+100025,Axis Sectoral Fund - Direct,Pharma,0.26
+100025,Axis Sectoral Fund - Direct,Metals,2.96
+100025,Axis Sectoral Fund - Direct,Construction,0.96
+100025,Axis Sectoral Fund - Direct,Power,5.07
+100025,Axis Sectoral Fund - Direct,Telecom,3.4
+100028,Aditya Sectoral Fund - Direct,Financial Services,8.26
+100028,Aditya Sectoral Fund - Direct,IT,13.18
+100028,Aditya Sectoral Fund - Direct,Oil & Gas,22.85
+100028,Aditya Sectoral Fund - Direct,Automobile,4.49
+100028,Aditya Sectoral Fund - Direct,Consumer Goods,0.64
+100028,Aditya Sectoral Fund - Direct,Pharma,0.05
+100028,Aditya Sectoral Fund - Direct,Metals,23.04
+100028,Aditya Sectoral Fund - Direct,Construction,26.05
+100028,Aditya Sectoral Fund - Direct,Power,1.32
+100028,Aditya Sectoral Fund - Direct,Telecom,0.13
+100031,SBI Large Cap Fund - Direct,Financial Services,15.07
+100031,SBI Large Cap Fund - Direct,IT,9.58
+100031,SBI Large Cap Fund - Direct,Oil & Gas,7.6
+100031,SBI Large Cap Fund - Direct,Automobile,7.13
+100031,SBI Large Cap Fund - Direct,Consumer Goods,13.9
+100031,SBI Large Cap Fund - Direct,Pharma,3.25
+100031,SBI Large Cap Fund - Direct,Metals,4.61
+100031,SBI Large Cap Fund - Direct,Construction,0.76
+100031,SBI Large Cap Fund - Direct,Power,7.81
+100031,SBI Large Cap Fund - Direct,Telecom,30.3
+100034,Nippon Mid Cap Fund - Direct,Financial Services,4.2
+100034,Nippon Mid Cap Fund - Direct,IT,33.35
+100034,Nippon Mid Cap Fund - Direct,Oil & Gas,16.45
+100034,Nippon Mid Cap Fund - Direct,Automobile,3.35
+100034,Nippon Mid Cap Fund - Direct,Consumer Goods,13.69
+100034,Nippon Mid Cap Fund - Direct,Pharma,5.74
+100034,Nippon Mid Cap Fund - Direct,Metals,1.64
+100034,Nippon Mid Cap Fund - Direct,Construction,1.23
+100034,Nippon Mid Cap Fund - Direct,Power,0.22
+100034,Nippon Mid Cap Fund - Direct,Telecom,20.13
+100037,DSP Mid Cap Fund - Direct,Financial Services,21.86
+100037,DSP Mid Cap Fund - Direct,IT,6.66
+100037,DSP Mid Cap Fund - Direct,Oil & Gas,7.42
+100037,DSP Mid Cap Fund - Direct,Automobile,11.89
+100037,DSP Mid Cap Fund - Direct,Consumer Goods,12.2
+100037,DSP Mid Cap Fund - Direct,Pharma,3.96
+100037,DSP Mid Cap Fund - Direct,Metals,1.75
+100037,DSP Mid Cap Fund - Direct,Construction,5.69
+100037,DSP Mid Cap Fund - Direct,Power,12.07
+100037,DSP Mid Cap Fund - Direct,Telecom,16.49
+100040,Tata Large Cap Fund - Direct,Financial Services,1.03
+100040,Tata Large Cap Fund - Direct,IT,9.77
+100040,Tata Large Cap Fund - Direct,Oil & Gas,0.61
+100040,Tata Large Cap Fund - Direct,Automobile,19.17
+100040,Tata Large Cap Fund - Direct,Consumer Goods,12.1
+100040,Tata Large Cap Fund - Direct,Pharma,13.13
+100040,Tata Large Cap Fund - Direct,Metals,15.79
+100040,Tata Large Cap Fund - Direct,Construction,7.53
+100040,Tata Large Cap Fund - Direct,Power,3.91
+100040,Tata Large Cap Fund - Direct,Telecom,16.95

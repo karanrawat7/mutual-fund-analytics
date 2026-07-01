@@ -1,0 +1,1001 @@
+investor_id,age_group,gender,state,city_tier,sip_amount
+100000,26-35,Female,Haryana,B30,4700.0
+100001,60+,Female,Karnataka,T30,2300.0
+100002,26-35,Male,Karnataka,T30,3200.0
+100003,26-35,Male,Maharashtra,B30,1700.0
+100004,26-35,Female,Gujarat,T30,7200.0
+100005,18-25,Male,Karnataka,B30,3400.0
+100006,26-35,Female,Uttar Pradesh,B30,7900.0
+100007,26-35,Male,Maharashtra,T30,6000.0
+100008,36-45,Male,Tamil Nadu,T30,11400.0
+100009,26-35,Male,West Bengal,T30,3300.0
+100010,26-35,Male,Tamil Nadu,T30,1700.0
+100011,36-45,Male,Maharashtra,B30,13100.0
+100012,26-35,Female,Tamil Nadu,T30,5800.0
+100013,36-45,Female,Maharashtra,T30,4500.0
+100014,26-35,Female,Uttar Pradesh,B30,5000.0
+100015,36-45,Male,Uttar Pradesh,T30,3200.0
+100016,26-35,Female,Maharashtra,T30,16200.0
+100017,26-35,Female,Delhi,T30,2900.0
+100018,26-35,Female,Maharashtra,T30,5600.0
+100019,18-25,Male,Karnataka,T30,1900.0
+100020,46-60,Female,Delhi,T30,4900.0
+100021,18-25,Male,Karnataka,B30,1900.0
+100022,26-35,Male,Uttar Pradesh,T30,8900.0
+100023,36-45,Male,Gujarat,T30,2100.0
+100024,26-35,Male,Delhi,B30,3800.0
+100025,36-45,Male,Gujarat,T30,11800.0
+100026,26-35,Male,Karnataka,B30,11600.0
+100027,18-25,Female,Uttar Pradesh,B30,1500.0
+100028,18-25,Male,Delhi,B30,2200.0
+100029,18-25,Female,Karnataka,T30,2300.0
+100030,36-45,Male,West Bengal,T30,4000.0
+100031,26-35,Male,West Bengal,T30,4000.0
+100032,18-25,Female,Maharashtra,T30,1600.0
+100033,36-45,Male,Gujarat,B30,13200.0
+100034,26-35,Male,Tamil Nadu,T30,3700.0
+100035,26-35,Male,Maharashtra,T30,9100.0
+100036,36-45,Male,Uttar Pradesh,B30,11400.0
+100037,36-45,Female,Maharashtra,T30,4000.0
+100038,60+,Male,Gujarat,B30,1100.0
+100039,26-35,Male,Uttar Pradesh,T30,2900.0
+100040,36-45,Female,Uttar Pradesh,B30,4100.0
+100041,36-45,Female,Uttar Pradesh,T30,13900.0
+100042,26-35,Male,Haryana,T30,5500.0
+100043,46-60,Male,Uttar Pradesh,T30,9900.0
+100044,26-35,Female,Karnataka,T30,6200.0
+100045,46-60,Female,West Bengal,T30,5100.0
+100046,18-25,Male,Maharashtra,T30,2600.0
+100047,26-35,Male,West Bengal,B30,4100.0
+100048,26-35,Male,Delhi,T30,11600.0
+100049,18-25,Female,Uttar Pradesh,B30,1400.0
+100050,26-35,Female,Maharashtra,T30,12200.0
+100051,36-45,Male,West Bengal,B30,13400.0
+100052,26-35,Female,Maharashtra,B30,6400.0
+100053,46-60,Male,Karnataka,B30,17000.0
+100054,18-25,Female,Uttar Pradesh,B30,2100.0
+100055,18-25,Male,Uttar Pradesh,T30,1700.0
+100056,26-35,Female,Delhi,T30,8700.0
+100057,26-35,Female,Karnataka,B30,1500.0
+100058,46-60,Female,Maharashtra,T30,4300.0
+100059,26-35,Female,Uttar Pradesh,T30,2500.0
+100060,26-35,Male,Gujarat,T30,7900.0
+100061,26-35,Female,Delhi,T30,1800.0
+100062,36-45,Male,Delhi,T30,8000.0
+100063,18-25,Female,Uttar Pradesh,B30,1500.0
+100064,26-35,Male,Haryana,B30,2400.0
+100065,26-35,Male,Maharashtra,T30,8000.0
+100066,36-45,Female,Delhi,T30,18400.0
+100067,18-25,Female,Haryana,B30,5000.0
+100068,60+,Male,West Bengal,T30,5500.0
+100069,18-25,Female,Maharashtra,B30,2100.0
+100070,26-35,Male,Uttar Pradesh,T30,3900.0
+100071,46-60,Female,Delhi,T30,16600.0
+100072,46-60,Male,West Bengal,T30,27200.0
+100073,46-60,Male,Gujarat,T30,4800.0
+100074,36-45,Female,Gujarat,T30,8700.0
+100075,36-45,Male,Maharashtra,T30,5300.0
+100076,26-35,Female,Gujarat,B30,5500.0
+100077,26-35,Female,Karnataka,T30,1900.0
+100078,18-25,Male,West Bengal,B30,5500.0
+100079,46-60,Female,Karnataka,T30,4900.0
+100080,26-35,Female,West Bengal,B30,3400.0
+100081,36-45,Male,Maharashtra,B30,8400.0
+100082,18-25,Female,Delhi,B30,5000.0
+100083,26-35,Male,Uttar Pradesh,T30,4800.0
+100084,26-35,Female,Karnataka,T30,3700.0
+100085,26-35,Male,Uttar Pradesh,T30,3700.0
+100086,18-25,Female,Maharashtra,B30,1300.0
+100087,46-60,Female,Karnataka,B30,3800.0
+100088,26-35,Female,Tamil Nadu,B30,700.0
+100089,36-45,Female,Tamil Nadu,B30,11000.0
+100090,46-60,Female,Maharashtra,T30,11100.0
+100091,26-35,Female,Maharashtra,T30,3100.0
+100092,36-45,Male,Uttar Pradesh,T30,11100.0
+100093,18-25,Female,Uttar Pradesh,T30,2000.0
+100094,36-45,Male,Uttar Pradesh,T30,4200.0
+100095,46-60,Male,Haryana,B30,5800.0
+100096,36-45,Female,Tamil Nadu,T30,3800.0
+100097,46-60,Male,Maharashtra,B30,15000.0
+100098,46-60,Male,Delhi,B30,14400.0
+100099,26-35,Male,Delhi,B30,5200.0
+100100,26-35,Female,Uttar Pradesh,B30,3300.0
+100101,26-35,Male,Maharashtra,B30,2400.0
+100102,46-60,Female,Maharashtra,B30,12400.0
+100103,26-35,Male,Uttar Pradesh,T30,3100.0
+100104,36-45,Female,Tamil Nadu,T30,5800.0
+100105,26-35,Female,Karnataka,T30,5400.0
+100106,36-45,Male,Delhi,T30,9400.0
+100107,36-45,Female,Delhi,T30,5400.0
+100108,26-35,Male,West Bengal,T30,8400.0
+100109,26-35,Female,Uttar Pradesh,T30,1100.0
+100110,26-35,Male,Uttar Pradesh,T30,3100.0
+100111,26-35,Female,Delhi,B30,12700.0
+100112,26-35,Male,West Bengal,B30,4200.0
+100113,26-35,Female,Haryana,T30,9500.0
+100114,26-35,Male,Delhi,B30,2900.0
+100115,36-45,Female,Maharashtra,T30,8200.0
+100116,36-45,Female,Tamil Nadu,T30,3300.0
+100117,18-25,Female,Delhi,T30,1400.0
+100118,26-35,Female,Karnataka,T30,2700.0
+100119,26-35,Female,West Bengal,B30,6600.0
+100120,26-35,Male,Maharashtra,T30,1400.0
+100121,60+,Female,Maharashtra,B30,3600.0
+100122,36-45,Male,Karnataka,T30,4900.0
+100123,18-25,Male,Delhi,B30,3600.0
+100124,18-25,Female,Uttar Pradesh,T30,900.0
+100125,26-35,Male,Maharashtra,T30,2900.0
+100126,26-35,Male,Maharashtra,T30,3000.0
+100127,18-25,Female,Uttar Pradesh,T30,600.0
+100128,26-35,Male,Maharashtra,B30,4300.0
+100129,26-35,Female,Delhi,T30,4500.0
+100130,18-25,Male,Uttar Pradesh,B30,2400.0
+100131,26-35,Female,Delhi,T30,3900.0
+100132,46-60,Other,Uttar Pradesh,T30,4800.0
+100133,46-60,Male,Delhi,T30,4500.0
+100134,26-35,Male,Gujarat,B30,6200.0
+100135,36-45,Female,Karnataka,T30,8300.0
+100136,36-45,Female,Delhi,T30,13100.0
+100137,26-35,Male,Delhi,B30,6700.0
+100138,36-45,Male,Delhi,T30,9000.0
+100139,46-60,Male,Gujarat,T30,14000.0
+100140,36-45,Male,Gujarat,B30,4200.0
+100141,36-45,Male,Delhi,B30,10100.0
+100142,26-35,Female,Delhi,T30,4800.0
+100143,26-35,Female,Maharashtra,T30,2400.0
+100144,36-45,Female,Maharashtra,T30,5200.0
+100145,36-45,Male,West Bengal,T30,7200.0
+100146,46-60,Male,Maharashtra,B30,3600.0
+100147,26-35,Female,Delhi,T30,4000.0
+100148,46-60,Male,Tamil Nadu,T30,7200.0
+100149,18-25,Female,Karnataka,T30,1800.0
+100150,18-25,Male,Karnataka,B30,1400.0
+100151,26-35,Male,Haryana,T30,2000.0
+100152,36-45,Male,Uttar Pradesh,B30,10700.0
+100153,46-60,Male,Delhi,T30,3500.0
+100154,26-35,Male,Delhi,T30,1800.0
+100155,26-35,Male,Tamil Nadu,B30,5900.0
+100156,60+,Male,Delhi,T30,7600.0
+100157,26-35,Female,Delhi,T30,8500.0
+100158,36-45,Male,Tamil Nadu,T30,8200.0
+100159,26-35,Male,Maharashtra,T30,3100.0
+100160,26-35,Other,Delhi,T30,3700.0
+100161,26-35,Male,Maharashtra,B30,5100.0
+100162,46-60,Male,Gujarat,T30,2400.0
+100163,26-35,Female,Delhi,T30,2800.0
+100164,60+,Male,Delhi,T30,2700.0
+100165,26-35,Male,Karnataka,T30,8500.0
+100166,26-35,Female,West Bengal,B30,2300.0
+100167,18-25,Male,Uttar Pradesh,T30,900.0
+100168,36-45,Female,West Bengal,T30,5600.0
+100169,36-45,Male,Gujarat,T30,3300.0
+100170,36-45,Male,Maharashtra,B30,6200.0
+100171,26-35,Other,Uttar Pradesh,T30,2600.0
+100172,18-25,Female,Uttar Pradesh,B30,2900.0
+100173,18-25,Male,Maharashtra,T30,1200.0
+100174,26-35,Male,Gujarat,T30,7500.0
+100175,18-25,Female,West Bengal,T30,2500.0
+100176,18-25,Male,Karnataka,T30,1300.0
+100177,26-35,Male,Karnataka,B30,4100.0
+100178,18-25,Male,Maharashtra,T30,900.0
+100179,26-35,Female,Haryana,B30,5000.0
+100180,36-45,Male,Delhi,T30,4500.0
+100181,26-35,Male,Maharashtra,T30,3700.0
+100182,26-35,Female,Delhi,T30,12400.0
+100183,26-35,Male,Karnataka,T30,4200.0
+100184,46-60,Female,Delhi,T30,18000.0
+100185,26-35,Male,Uttar Pradesh,T30,4200.0
+100186,36-45,Male,Delhi,T30,1100.0
+100187,36-45,Female,Tamil Nadu,B30,6400.0
+100188,46-60,Male,Gujarat,T30,3400.0
+100189,60+,Male,Uttar Pradesh,T30,3300.0
+100190,26-35,Female,Gujarat,T30,4100.0
+100191,60+,Female,Tamil Nadu,B30,5200.0
+100192,18-25,Male,Karnataka,T30,2000.0
+100193,46-60,Male,Gujarat,T30,23900.0
+100194,26-35,Female,Uttar Pradesh,T30,5400.0
+100195,36-45,Female,Haryana,B30,4800.0
+100196,18-25,Male,Uttar Pradesh,B30,1600.0
+100197,46-60,Other,Uttar Pradesh,T30,14000.0
+100198,18-25,Male,West Bengal,B30,5100.0
+100199,36-45,Female,Maharashtra,T30,10500.0
+100200,26-35,Female,Delhi,T30,2200.0
+100201,46-60,Male,Delhi,B30,3300.0
+100202,26-35,Male,Karnataka,T30,12000.0
+100203,46-60,Male,Delhi,T30,3500.0
+100204,36-45,Female,Haryana,B30,7000.0
+100205,60+,Male,Karnataka,T30,5700.0
+100206,26-35,Male,Delhi,T30,2600.0
+100207,18-25,Male,Maharashtra,B30,1100.0
+100208,18-25,Male,Maharashtra,B30,1100.0
+100209,60+,Female,West Bengal,B30,6900.0
+100210,36-45,Male,West Bengal,B30,3800.0
+100211,36-45,Male,Delhi,T30,7200.0
+100212,36-45,Female,Maharashtra,B30,4900.0
+100213,26-35,Male,Karnataka,T30,4900.0
+100214,26-35,Female,Delhi,T30,6500.0
+100215,26-35,Male,Delhi,T30,9500.0
+100216,26-35,Male,Maharashtra,B30,17600.0
+100217,26-35,Male,Maharashtra,B30,3400.0
+100218,26-35,Female,Delhi,B30,4400.0
+100219,36-45,Male,Gujarat,T30,7700.0
+100220,46-60,Male,Maharashtra,T30,8300.0
+100221,36-45,Male,Haryana,B30,8200.0
+100222,36-45,Male,West Bengal,B30,14400.0
+100223,26-35,Female,West Bengal,T30,3900.0
+100224,26-35,Male,West Bengal,T30,6500.0
+100225,46-60,Female,West Bengal,B30,5100.0
+100226,18-25,Female,Maharashtra,B30,2100.0
+100227,46-60,Male,Maharashtra,B30,6400.0
+100228,26-35,Male,Tamil Nadu,B30,13000.0
+100229,26-35,Male,Uttar Pradesh,T30,3900.0
+100230,60+,Male,Tamil Nadu,B30,7700.0
+100231,36-45,Male,Delhi,T30,3200.0
+100232,26-35,Female,Gujarat,T30,7200.0
+100233,46-60,Female,Uttar Pradesh,T30,7700.0
+100234,18-25,Male,West Bengal,B30,2000.0
+100235,18-25,Female,Delhi,T30,2000.0
+100236,18-25,Female,Maharashtra,T30,3800.0
+100237,36-45,Other,Tamil Nadu,T30,5500.0
+100238,26-35,Female,Uttar Pradesh,B30,5800.0
+100239,36-45,Female,Uttar Pradesh,T30,2200.0
+100240,26-35,Male,Delhi,B30,3600.0
+100241,60+,Male,Karnataka,T30,2000.0
+100242,18-25,Male,Delhi,T30,2300.0
+100243,18-25,Other,Tamil Nadu,T30,1300.0
+100244,36-45,Female,Haryana,T30,2300.0
+100245,26-35,Male,Haryana,T30,1900.0
+100246,46-60,Female,Delhi,T30,11400.0
+100247,36-45,Male,Delhi,T30,6000.0
+100248,26-35,Male,West Bengal,T30,3300.0
+100249,26-35,Male,Maharashtra,T30,4500.0
+100250,46-60,Male,Karnataka,B30,9500.0
+100251,26-35,Female,West Bengal,T30,8400.0
+100252,26-35,Male,Uttar Pradesh,B30,3300.0
+100253,36-45,Male,Haryana,T30,6500.0
+100254,36-45,Male,Maharashtra,B30,14200.0
+100255,26-35,Male,Maharashtra,B30,6500.0
+100256,46-60,Female,Delhi,T30,7400.0
+100257,26-35,Male,Haryana,B30,2500.0
+100258,26-35,Male,Uttar Pradesh,T30,2100.0
+100259,46-60,Male,Uttar Pradesh,B30,8700.0
+100260,36-45,Male,Uttar Pradesh,T30,9600.0
+100261,18-25,Female,Uttar Pradesh,T30,3400.0
+100262,26-35,Male,Karnataka,T30,8700.0
+100263,26-35,Male,Maharashtra,T30,1900.0
+100264,46-60,Female,Karnataka,T30,5200.0
+100265,26-35,Male,Maharashtra,B30,6000.0
+100266,36-45,Female,Haryana,B30,8300.0
+100267,36-45,Male,Maharashtra,B30,15700.0
+100268,46-60,Male,Delhi,B30,3900.0
+100269,26-35,Male,West Bengal,B30,1300.0
+100270,26-35,Male,Maharashtra,T30,3900.0
+100271,26-35,Female,Gujarat,T30,4200.0
+100272,36-45,Female,Gujarat,T30,3100.0
+100273,18-25,Female,Tamil Nadu,B30,1200.0
+100274,26-35,Male,Gujarat,T30,2700.0
+100275,26-35,Male,Maharashtra,B30,3500.0
+100276,26-35,Female,Gujarat,B30,9000.0
+100277,26-35,Female,Delhi,T30,8600.0
+100278,26-35,Male,Maharashtra,T30,4800.0
+100279,36-45,Male,Tamil Nadu,B30,3400.0
+100280,46-60,Male,Tamil Nadu,B30,3600.0
+100281,26-35,Male,Uttar Pradesh,T30,2900.0
+100282,60+,Female,Tamil Nadu,T30,1900.0
+100283,26-35,Female,Karnataka,T30,2500.0
+100284,26-35,Female,Maharashtra,B30,21500.0
+100285,36-45,Female,Uttar Pradesh,T30,7800.0
+100286,36-45,Male,Uttar Pradesh,B30,17000.0
+100287,26-35,Female,Gujarat,B30,4700.0
+100288,46-60,Male,Maharashtra,B30,11600.0
+100289,26-35,Female,Maharashtra,B30,3800.0
+100290,26-35,Female,West Bengal,T30,4500.0
+100291,18-25,Female,Haryana,T30,1900.0
+100292,26-35,Female,Delhi,T30,2800.0
+100293,36-45,Male,Delhi,T30,7500.0
+100294,36-45,Male,Karnataka,T30,2800.0
+100295,18-25,Female,Delhi,T30,2200.0
+100296,36-45,Male,Haryana,T30,2300.0
+100297,26-35,Male,Maharashtra,B30,8500.0
+100298,26-35,Male,Haryana,T30,6600.0
+100299,26-35,Male,Delhi,B30,6900.0
+100300,18-25,Male,West Bengal,B30,1500.0
+100301,36-45,Male,Delhi,B30,4500.0
+100302,26-35,Male,West Bengal,B30,10300.0
+100303,36-45,Female,West Bengal,B30,3200.0
+100304,36-45,Male,Gujarat,T30,5500.0
+100305,26-35,Male,Delhi,T30,2700.0
+100306,26-35,Female,Maharashtra,T30,2900.0
+100307,36-45,Female,Delhi,T30,4900.0
+100308,46-60,Male,Karnataka,T30,14000.0
+100309,18-25,Male,Maharashtra,B30,1800.0
+100310,26-35,Male,West Bengal,B30,2600.0
+100311,46-60,Male,Maharashtra,T30,3200.0
+100312,36-45,Female,Karnataka,T30,4500.0
+100313,26-35,Female,Maharashtra,T30,2400.0
+100314,26-35,Male,West Bengal,T30,5200.0
+100315,26-35,Male,Haryana,B30,6500.0
+100316,36-45,Female,Maharashtra,T30,5900.0
+100317,26-35,Male,West Bengal,B30,2700.0
+100318,46-60,Female,Maharashtra,T30,5700.0
+100319,18-25,Male,Maharashtra,B30,700.0
+100320,18-25,Male,Uttar Pradesh,T30,2300.0
+100321,26-35,Male,West Bengal,T30,4400.0
+100322,46-60,Male,Gujarat,T30,9500.0
+100323,26-35,Male,Delhi,B30,5500.0
+100324,36-45,Female,Delhi,T30,6300.0
+100325,18-25,Female,Haryana,T30,1300.0
+100326,60+,Female,Maharashtra,B30,8200.0
+100327,36-45,Female,Maharashtra,B30,9400.0
+100328,18-25,Male,West Bengal,T30,800.0
+100329,46-60,Male,Delhi,T30,2200.0
+100330,46-60,Male,Karnataka,T30,6600.0
+100331,26-35,Female,Maharashtra,B30,4900.0
+100332,36-45,Male,Maharashtra,B30,9100.0
+100333,26-35,Male,Delhi,B30,3700.0
+100334,36-45,Male,Gujarat,T30,9300.0
+100335,36-45,Male,Maharashtra,T30,4800.0
+100336,26-35,Female,West Bengal,B30,3200.0
+100337,46-60,Male,Delhi,B30,20100.0
+100338,26-35,Male,Tamil Nadu,T30,17200.0
+100339,26-35,Male,Karnataka,T30,3800.0
+100340,26-35,Male,Maharashtra,T30,4400.0
+100341,36-45,Male,Karnataka,T30,5600.0
+100342,18-25,Other,Maharashtra,B30,1500.0
+100343,36-45,Female,Uttar Pradesh,T30,12500.0
+100344,36-45,Female,West Bengal,T30,5000.0
+100345,26-35,Female,Maharashtra,T30,4700.0
+100346,46-60,Male,Uttar Pradesh,T30,4000.0
+100347,36-45,Female,Delhi,T30,6700.0
+100348,36-45,Male,Delhi,T30,6400.0
+100349,36-45,Male,Karnataka,B30,4900.0
+100350,46-60,Male,Haryana,B30,5200.0
+100351,26-35,Female,Delhi,T30,1000.0
+100352,60+,Female,Tamil Nadu,T30,6000.0
+100353,36-45,Male,Karnataka,B30,2700.0
+100354,26-35,Female,Tamil Nadu,T30,4200.0
+100355,36-45,Female,Maharashtra,B30,6200.0
+100356,26-35,Female,Gujarat,B30,10200.0
+100357,36-45,Male,Maharashtra,B30,3300.0
+100358,18-25,Male,Maharashtra,B30,2400.0
+100359,46-60,Female,Maharashtra,T30,4500.0
+100360,18-25,Other,West Bengal,T30,1300.0
+100361,18-25,Male,Gujarat,B30,2600.0
+100362,18-25,Male,Maharashtra,T30,2000.0
+100363,36-45,Male,Uttar Pradesh,B30,2500.0
+100364,26-35,Male,West Bengal,T30,6900.0
+100365,18-25,Female,Maharashtra,T30,1400.0
+100366,60+,Male,Maharashtra,T30,2500.0
+100367,26-35,Male,Uttar Pradesh,B30,4900.0
+100368,46-60,Male,Uttar Pradesh,B30,2200.0
+100369,46-60,Female,Tamil Nadu,T30,7800.0
+100370,36-45,Male,Delhi,T30,4500.0
+100371,46-60,Male,Uttar Pradesh,B30,8400.0
+100372,46-60,Male,Karnataka,T30,7000.0
+100373,36-45,Female,Maharashtra,B30,5800.0
+100374,26-35,Male,Haryana,T30,2300.0
+100375,36-45,Male,Uttar Pradesh,B30,7000.0
+100376,36-45,Male,Karnataka,B30,10400.0
+100377,26-35,Female,Gujarat,B30,6000.0
+100378,36-45,Male,Uttar Pradesh,B30,18700.0
+100379,36-45,Male,Tamil Nadu,B30,6100.0
+100380,26-35,Male,Karnataka,T30,9000.0
+100381,36-45,Male,Gujarat,T30,4400.0
+100382,18-25,Male,Maharashtra,B30,1800.0
+100383,36-45,Male,West Bengal,T30,8100.0
+100384,36-45,Male,Karnataka,B30,8400.0
+100385,18-25,Male,Karnataka,B30,2200.0
+100386,46-60,Male,Haryana,T30,4400.0
+100387,26-35,Male,Uttar Pradesh,B30,5200.0
+100388,26-35,Male,Haryana,B30,2200.0
+100389,36-45,Female,Maharashtra,T30,4500.0
+100390,26-35,Female,Maharashtra,T30,14000.0
+100391,26-35,Female,Gujarat,T30,2400.0
+100392,26-35,Female,West Bengal,T30,3000.0
+100393,26-35,Female,Uttar Pradesh,T30,8800.0
+100394,46-60,Male,Maharashtra,T30,1900.0
+100395,18-25,Female,Maharashtra,T30,1100.0
+100396,26-35,Male,Gujarat,T30,5500.0
+100397,60+,Male,West Bengal,T30,4800.0
+100398,36-45,Male,Karnataka,T30,6700.0
+100399,26-35,Female,Tamil Nadu,T30,4500.0
+100400,26-35,Male,Maharashtra,B30,4000.0
+100401,26-35,Male,West Bengal,B30,1500.0
+100402,26-35,Female,Maharashtra,T30,3800.0
+100403,36-45,Female,Maharashtra,T30,8400.0
+100404,60+,Female,Uttar Pradesh,B30,1900.0
+100405,36-45,Female,Maharashtra,B30,12700.0
+100406,36-45,Male,Maharashtra,T30,26900.0
+100407,26-35,Male,Haryana,T30,2900.0
+100408,26-35,Female,Maharashtra,T30,2200.0
+100409,26-35,Female,Karnataka,B30,2500.0
+100410,18-25,Male,Tamil Nadu,T30,2200.0
+100411,26-35,Female,Maharashtra,T30,7400.0
+100412,26-35,Male,Maharashtra,T30,4700.0
+100413,26-35,Female,Karnataka,B30,3700.0
+100414,46-60,Female,Maharashtra,T30,29800.0
+100415,26-35,Female,Delhi,B30,2700.0
+100416,18-25,Other,Maharashtra,B30,1400.0
+100417,46-60,Male,Uttar Pradesh,B30,3000.0
+100418,46-60,Male,Maharashtra,T30,16600.0
+100419,36-45,Male,Gujarat,T30,13500.0
+100420,46-60,Male,Karnataka,B30,4200.0
+100421,36-45,Male,Gujarat,B30,5000.0
+100422,26-35,Male,Gujarat,T30,6800.0
+100423,18-25,Female,Maharashtra,T30,1600.0
+100424,46-60,Male,Delhi,T30,9000.0
+100425,46-60,Female,Maharashtra,B30,6200.0
+100426,26-35,Female,Uttar Pradesh,B30,2500.0
+100427,36-45,Male,Tamil Nadu,B30,6700.0
+100428,36-45,Male,Maharashtra,T30,5400.0
+100429,36-45,Male,Maharashtra,T30,5300.0
+100430,36-45,Female,Haryana,B30,10300.0
+100431,60+,Male,Gujarat,B30,2700.0
+100432,36-45,Male,Maharashtra,B30,5400.0
+100433,26-35,Male,West Bengal,T30,4000.0
+100434,46-60,Female,Uttar Pradesh,B30,11400.0
+100435,36-45,Male,Karnataka,T30,4600.0
+100436,26-35,Female,Delhi,T30,7700.0
+100437,26-35,Male,Maharashtra,B30,2000.0
+100438,18-25,Male,Uttar Pradesh,B30,2400.0
+100439,26-35,Female,Gujarat,T30,3200.0
+100440,26-35,Female,Maharashtra,T30,5300.0
+100441,36-45,Female,Karnataka,T30,7000.0
+100442,26-35,Male,Maharashtra,T30,1800.0
+100443,36-45,Male,Maharashtra,T30,20100.0
+100444,46-60,Male,Delhi,B30,3100.0
+100445,46-60,Male,Maharashtra,B30,1100.0
+100446,26-35,Male,Gujarat,B30,1500.0
+100447,60+,Male,Karnataka,T30,4900.0
+100448,36-45,Female,Karnataka,B30,14800.0
+100449,36-45,Male,Maharashtra,T30,4400.0
+100450,36-45,Male,Maharashtra,T30,9700.0
+100451,46-60,Male,Maharashtra,B30,25000.0
+100452,46-60,Female,Gujarat,T30,2900.0
+100453,36-45,Female,West Bengal,T30,4500.0
+100454,18-25,Male,Gujarat,T30,1000.0
+100455,26-35,Male,Delhi,B30,9900.0
+100456,36-45,Male,Tamil Nadu,B30,11100.0
+100457,18-25,Male,Maharashtra,T30,1500.0
+100458,18-25,Male,Maharashtra,T30,1800.0
+100459,36-45,Male,West Bengal,B30,5200.0
+100460,46-60,Male,Maharashtra,B30,6800.0
+100461,26-35,Male,Tamil Nadu,T30,2500.0
+100462,36-45,Male,West Bengal,T30,10500.0
+100463,46-60,Female,Haryana,T30,4100.0
+100464,36-45,Female,Gujarat,B30,6000.0
+100465,26-35,Male,Karnataka,B30,7200.0
+100466,18-25,Female,Maharashtra,T30,1700.0
+100467,46-60,Male,West Bengal,T30,12500.0
+100468,26-35,Female,Maharashtra,T30,7900.0
+100469,46-60,Male,Karnataka,T30,4000.0
+100470,46-60,Male,Maharashtra,B30,3700.0
+100471,26-35,Female,Karnataka,B30,6200.0
+100472,46-60,Male,Delhi,B30,3000.0
+100473,26-35,Male,Maharashtra,T30,1600.0
+100474,26-35,Female,Gujarat,T30,4300.0
+100475,26-35,Female,Haryana,B30,4900.0
+100476,26-35,Female,Tamil Nadu,B30,6300.0
+100477,36-45,Female,Karnataka,T30,5900.0
+100478,26-35,Female,Uttar Pradesh,B30,2200.0
+100479,26-35,Female,Maharashtra,T30,2200.0
+100480,18-25,Female,Delhi,B30,1100.0
+100481,36-45,Male,Karnataka,T30,18800.0
+100482,18-25,Female,Uttar Pradesh,T30,2900.0
+100483,36-45,Male,Maharashtra,T30,5700.0
+100484,46-60,Female,Tamil Nadu,T30,6600.0
+100485,26-35,Female,Maharashtra,T30,2600.0
+100486,26-35,Female,Maharashtra,B30,2000.0
+100487,26-35,Female,Gujarat,T30,2300.0
+100488,46-60,Female,Maharashtra,T30,17400.0
+100489,36-45,Male,Delhi,T30,4000.0
+100490,26-35,Female,Karnataka,T30,2900.0
+100491,36-45,Female,Maharashtra,T30,11300.0
+100492,26-35,Male,Maharashtra,B30,3200.0
+100493,26-35,Male,Tamil Nadu,B30,10400.0
+100494,26-35,Female,Karnataka,B30,3800.0
+100495,26-35,Female,Tamil Nadu,B30,2700.0
+100496,18-25,Female,West Bengal,T30,5600.0
+100497,26-35,Female,Maharashtra,T30,8100.0
+100498,46-60,Male,Haryana,T30,2600.0
+100499,46-60,Male,Uttar Pradesh,T30,9800.0
+100500,46-60,Female,Delhi,T30,5400.0
+100501,26-35,Female,Delhi,B30,2300.0
+100502,46-60,Female,Karnataka,B30,4400.0
+100503,46-60,Female,West Bengal,T30,16600.0
+100504,26-35,Female,West Bengal,T30,4600.0
+100505,26-35,Male,Delhi,T30,3900.0
+100506,36-45,Other,Maharashtra,B30,26100.0
+100507,36-45,Female,Maharashtra,B30,5700.0
+100508,26-35,Female,Tamil Nadu,T30,3200.0
+100509,18-25,Male,Tamil Nadu,B30,2100.0
+100510,26-35,Male,Karnataka,T30,1400.0
+100511,26-35,Female,Gujarat,B30,3300.0
+100512,36-45,Female,Haryana,T30,6300.0
+100513,46-60,Male,Delhi,T30,4300.0
+100514,36-45,Male,Delhi,B30,13100.0
+100515,26-35,Female,Uttar Pradesh,T30,5400.0
+100516,18-25,Female,Maharashtra,B30,2000.0
+100517,60+,Male,Delhi,B30,500.0
+100518,26-35,Female,Karnataka,T30,8700.0
+100519,26-35,Male,Uttar Pradesh,T30,2800.0
+100520,46-60,Male,West Bengal,T30,4200.0
+100521,36-45,Female,Delhi,B30,6400.0
+100522,60+,Male,Haryana,B30,1800.0
+100523,26-35,Male,Delhi,T30,6700.0
+100524,26-35,Male,Maharashtra,B30,4200.0
+100525,26-35,Female,Uttar Pradesh,B30,3300.0
+100526,18-25,Male,Delhi,T30,2200.0
+100527,26-35,Male,Uttar Pradesh,T30,6000.0
+100528,36-45,Male,Gujarat,T30,6800.0
+100529,26-35,Other,Gujarat,T30,3000.0
+100530,46-60,Female,Maharashtra,T30,1600.0
+100531,26-35,Male,Maharashtra,T30,8900.0
+100532,36-45,Female,West Bengal,T30,10400.0
+100533,26-35,Male,Maharashtra,T30,3900.0
+100534,26-35,Male,Delhi,B30,2700.0
+100535,18-25,Male,Gujarat,T30,1200.0
+100536,36-45,Female,Maharashtra,B30,6100.0
+100537,36-45,Female,Gujarat,T30,4000.0
+100538,18-25,Male,Maharashtra,B30,2700.0
+100539,46-60,Male,Delhi,T30,18400.0
+100540,26-35,Male,Tamil Nadu,T30,2700.0
+100541,18-25,Male,Tamil Nadu,T30,1500.0
+100542,60+,Male,Karnataka,B30,3100.0
+100543,18-25,Male,Karnataka,T30,2400.0
+100544,26-35,Female,Uttar Pradesh,T30,15300.0
+100545,60+,Male,Gujarat,B30,9000.0
+100546,26-35,Male,Tamil Nadu,B30,5600.0
+100547,18-25,Female,Maharashtra,T30,1200.0
+100548,26-35,Male,Haryana,T30,12200.0
+100549,18-25,Male,Maharashtra,T30,2200.0
+100550,36-45,Male,Uttar Pradesh,B30,13000.0
+100551,26-35,Male,Haryana,T30,9100.0
+100552,36-45,Male,Karnataka,T30,6600.0
+100553,18-25,Other,Tamil Nadu,B30,1600.0
+100554,46-60,Female,Delhi,B30,14100.0
+100555,26-35,Male,Maharashtra,T30,2800.0
+100556,36-45,Female,Maharashtra,B30,5900.0
+100557,36-45,Female,Maharashtra,B30,6700.0
+100558,60+,Female,Maharashtra,B30,3700.0
+100559,36-45,Male,Maharashtra,T30,10300.0
+100560,36-45,Male,Karnataka,T30,8300.0
+100561,36-45,Female,Haryana,B30,9900.0
+100562,46-60,Male,Uttar Pradesh,B30,7500.0
+100563,60+,Male,Uttar Pradesh,T30,4300.0
+100564,26-35,Female,West Bengal,B30,5600.0
+100565,26-35,Female,Maharashtra,B30,3400.0
+100566,26-35,Male,Haryana,T30,4000.0
+100567,60+,Male,Haryana,B30,3600.0
+100568,26-35,Female,Gujarat,T30,3800.0
+100569,36-45,Male,Tamil Nadu,T30,12100.0
+100570,46-60,Female,Uttar Pradesh,T30,17200.0
+100571,26-35,Female,Haryana,T30,11200.0
+100572,36-45,Female,Maharashtra,B30,5700.0
+100573,18-25,Male,Delhi,B30,1200.0
+100574,46-60,Male,West Bengal,B30,2200.0
+100575,18-25,Male,Maharashtra,T30,2600.0
+100576,18-25,Male,Haryana,T30,1600.0
+100577,36-45,Female,Tamil Nadu,B30,9300.0
+100578,36-45,Male,Delhi,T30,14900.0
+100579,26-35,Male,Karnataka,T30,7000.0
+100580,36-45,Male,Maharashtra,T30,8200.0
+100581,46-60,Male,Gujarat,T30,12200.0
+100582,46-60,Male,Gujarat,B30,11400.0
+100583,60+,Male,Karnataka,T30,4700.0
+100584,36-45,Female,Karnataka,T30,6600.0
+100585,60+,Male,Gujarat,T30,1800.0
+100586,26-35,Female,Karnataka,T30,6000.0
+100587,36-45,Male,Uttar Pradesh,T30,2600.0
+100588,46-60,Male,Delhi,T30,6100.0
+100589,60+,Female,Maharashtra,T30,2600.0
+100590,46-60,Female,Haryana,T30,5700.0
+100591,36-45,Male,Uttar Pradesh,B30,6600.0
+100592,26-35,Female,Maharashtra,T30,3800.0
+100593,36-45,Female,Gujarat,T30,5300.0
+100594,26-35,Male,Karnataka,B30,2000.0
+100595,26-35,Male,Delhi,B30,3700.0
+100596,18-25,Male,Karnataka,B30,1600.0
+100597,36-45,Female,Delhi,B30,11400.0
+100598,46-60,Female,Tamil Nadu,B30,2700.0
+100599,36-45,Female,West Bengal,T30,1800.0
+100600,18-25,Male,Maharashtra,T30,1500.0
+100601,26-35,Male,Haryana,B30,6600.0
+100602,18-25,Male,Tamil Nadu,T30,3900.0
+100603,26-35,Male,Maharashtra,T30,5900.0
+100604,26-35,Male,Maharashtra,T30,8000.0
+100605,26-35,Female,Gujarat,T30,4700.0
+100606,60+,Female,Karnataka,T30,12300.0
+100607,26-35,Female,Karnataka,T30,1700.0
+100608,46-60,Female,Delhi,T30,8800.0
+100609,26-35,Male,Delhi,B30,9400.0
+100610,46-60,Female,Maharashtra,T30,20900.0
+100611,26-35,Male,Gujarat,B30,4800.0
+100612,18-25,Male,Maharashtra,B30,1000.0
+100613,26-35,Female,Gujarat,B30,3100.0
+100614,60+,Female,Haryana,B30,5400.0
+100615,26-35,Female,Delhi,B30,3400.0
+100616,26-35,Female,Maharashtra,T30,8900.0
+100617,26-35,Female,West Bengal,T30,8700.0
+100618,26-35,Male,Maharashtra,B30,5100.0
+100619,36-45,Female,Maharashtra,B30,3700.0
+100620,46-60,Female,Maharashtra,T30,5600.0
+100621,26-35,Male,Uttar Pradesh,B30,2800.0
+100622,36-45,Female,Haryana,B30,4300.0
+100623,18-25,Male,Tamil Nadu,T30,2300.0
+100624,18-25,Female,Maharashtra,T30,1700.0
+100625,36-45,Male,Haryana,T30,11400.0
+100626,46-60,Female,Uttar Pradesh,B30,12500.0
+100627,36-45,Female,Maharashtra,T30,3400.0
+100628,26-35,Male,Maharashtra,T30,7600.0
+100629,36-45,Male,Delhi,T30,17200.0
+100630,18-25,Male,Delhi,B30,2200.0
+100631,26-35,Male,Uttar Pradesh,T30,2600.0
+100632,26-35,Female,Delhi,T30,9000.0
+100633,18-25,Male,Maharashtra,B30,1100.0
+100634,46-60,Male,Delhi,T30,4400.0
+100635,26-35,Female,Karnataka,T30,2300.0
+100636,46-60,Female,Gujarat,T30,5300.0
+100637,60+,Female,Gujarat,B30,6300.0
+100638,26-35,Male,West Bengal,T30,10100.0
+100639,26-35,Male,Delhi,T30,9700.0
+100640,18-25,Male,Uttar Pradesh,T30,2300.0
+100641,46-60,Female,Uttar Pradesh,T30,5500.0
+100642,26-35,Female,Haryana,T30,8800.0
+100643,18-25,Male,Tamil Nadu,T30,4600.0
+100644,36-45,Male,Tamil Nadu,B30,6700.0
+100645,18-25,Female,Karnataka,T30,2800.0
+100646,36-45,Male,Haryana,B30,4900.0
+100647,26-35,Female,Maharashtra,T30,3700.0
+100648,46-60,Male,Delhi,B30,2800.0
+100649,46-60,Male,Gujarat,T30,5300.0
+100650,18-25,Female,West Bengal,B30,800.0
+100651,26-35,Male,Tamil Nadu,T30,2700.0
+100652,26-35,Male,Maharashtra,T30,4000.0
+100653,36-45,Male,Maharashtra,T30,8300.0
+100654,18-25,Female,Gujarat,B30,1300.0
+100655,46-60,Female,Gujarat,B30,12400.0
+100656,36-45,Male,Gujarat,B30,4100.0
+100657,26-35,Male,Uttar Pradesh,B30,6700.0
+100658,26-35,Male,Gujarat,T30,2900.0
+100659,46-60,Female,Delhi,B30,1900.0
+100660,26-35,Female,Tamil Nadu,T30,5800.0
+100661,26-35,Female,Delhi,T30,5600.0
+100662,26-35,Female,Delhi,B30,11600.0
+100663,26-35,Female,Karnataka,T30,7600.0
+100664,46-60,Female,Haryana,T30,7700.0
+100665,26-35,Female,West Bengal,T30,1800.0
+100666,26-35,Male,Maharashtra,T30,5500.0
+100667,18-25,Female,Gujarat,T30,700.0
+100668,26-35,Male,Gujarat,T30,11700.0
+100669,60+,Female,Maharashtra,B30,1000.0
+100670,18-25,Male,Gujarat,B30,1400.0
+100671,36-45,Female,Uttar Pradesh,B30,3300.0
+100672,36-45,Male,Delhi,T30,10900.0
+100673,26-35,Female,Karnataka,T30,5000.0
+100674,26-35,Female,Haryana,T30,5200.0
+100675,26-35,Other,Delhi,B30,4900.0
+100676,36-45,Female,Tamil Nadu,T30,5500.0
+100677,26-35,Male,Karnataka,T30,7700.0
+100678,26-35,Female,Delhi,T30,2100.0
+100679,46-60,Female,Karnataka,T30,13500.0
+100680,26-35,Male,Karnataka,T30,5000.0
+100681,26-35,Male,Maharashtra,T30,4100.0
+100682,18-25,Female,Maharashtra,T30,3400.0
+100683,60+,Male,Haryana,B30,13600.0
+100684,26-35,Female,Maharashtra,B30,1900.0
+100685,60+,Male,Maharashtra,T30,1500.0
+100686,26-35,Female,Uttar Pradesh,B30,3600.0
+100687,26-35,Male,Maharashtra,B30,10400.0
+100688,26-35,Female,Maharashtra,T30,7700.0
+100689,36-45,Female,Uttar Pradesh,T30,6000.0
+100690,36-45,Female,Tamil Nadu,B30,5900.0
+100691,18-25,Female,Delhi,T30,2800.0
+100692,26-35,Male,West Bengal,B30,7900.0
+100693,26-35,Female,Maharashtra,B30,1900.0
+100694,26-35,Female,Delhi,B30,6900.0
+100695,26-35,Female,Maharashtra,T30,10500.0
+100696,26-35,Male,Karnataka,T30,1200.0
+100697,46-60,Male,Maharashtra,T30,3600.0
+100698,26-35,Male,West Bengal,T30,2300.0
+100699,46-60,Male,West Bengal,B30,4400.0
+100700,60+,Male,Karnataka,B30,1400.0
+100701,36-45,Female,Karnataka,T30,6900.0
+100702,36-45,Female,Karnataka,B30,9700.0
+100703,18-25,Male,Karnataka,T30,1300.0
+100704,36-45,Male,West Bengal,T30,3400.0
+100705,46-60,Male,Uttar Pradesh,T30,4200.0
+100706,26-35,Female,Uttar Pradesh,T30,4400.0
+100707,26-35,Male,West Bengal,T30,1000.0
+100708,46-60,Male,Delhi,B30,4700.0
+100709,26-35,Male,Gujarat,B30,4800.0
+100710,18-25,Female,Delhi,T30,6300.0
+100711,36-45,Female,Maharashtra,T30,5100.0
+100712,26-35,Female,Tamil Nadu,B30,3600.0
+100713,26-35,Male,Maharashtra,T30,3000.0
+100714,18-25,Female,Maharashtra,T30,2500.0
+100715,26-35,Female,Tamil Nadu,T30,5700.0
+100716,46-60,Female,Maharashtra,T30,9600.0
+100717,36-45,Male,West Bengal,T30,11700.0
+100718,26-35,Male,Maharashtra,T30,1000.0
+100719,36-45,Male,Maharashtra,B30,4700.0
+100720,36-45,Male,West Bengal,B30,9500.0
+100721,26-35,Female,Maharashtra,B30,12600.0
+100722,36-45,Male,Delhi,T30,1600.0
+100723,36-45,Female,West Bengal,T30,4700.0
+100724,36-45,Male,Maharashtra,B30,8600.0
+100725,26-35,Male,Gujarat,T30,2800.0
+100726,46-60,Male,West Bengal,T30,1200.0
+100727,26-35,Male,Karnataka,T30,8100.0
+100728,26-35,Female,Delhi,T30,20600.0
+100729,26-35,Male,Maharashtra,B30,2400.0
+100730,60+,Male,Gujarat,T30,6400.0
+100731,26-35,Female,Karnataka,T30,6600.0
+100732,46-60,Male,Maharashtra,B30,11600.0
+100733,26-35,Male,Maharashtra,B30,2000.0
+100734,26-35,Male,Maharashtra,T30,5700.0
+100735,36-45,Male,Maharashtra,T30,6600.0
+100736,26-35,Male,Maharashtra,B30,4500.0
+100737,46-60,Male,Tamil Nadu,B30,6500.0
+100738,26-35,Female,Tamil Nadu,B30,7600.0
+100739,46-60,Female,Uttar Pradesh,T30,4500.0
+100740,36-45,Male,Maharashtra,T30,6000.0
+100741,46-60,Male,Maharashtra,B30,1600.0
+100742,36-45,Male,Tamil Nadu,T30,12600.0
+100743,26-35,Male,Delhi,T30,4900.0
+100744,36-45,Male,Tamil Nadu,T30,7100.0
+100745,46-60,Female,Maharashtra,T30,1300.0
+100746,26-35,Female,Delhi,T30,6700.0
+100747,26-35,Female,Karnataka,T30,3500.0
+100748,60+,Male,West Bengal,B30,2700.0
+100749,26-35,Female,Uttar Pradesh,B30,5300.0
+100750,36-45,Male,Delhi,B30,25400.0
+100751,18-25,Male,Karnataka,B30,3700.0
+100752,36-45,Male,Maharashtra,B30,6600.0
+100753,36-45,Female,Maharashtra,T30,5700.0
+100754,18-25,Male,Delhi,T30,2900.0
+100755,26-35,Male,Haryana,B30,7200.0
+100756,26-35,Male,West Bengal,T30,2100.0
+100757,36-45,Male,Gujarat,B30,5000.0
+100758,18-25,Male,Gujarat,T30,3000.0
+100759,26-35,Male,Delhi,B30,7900.0
+100760,26-35,Male,Delhi,T30,1700.0
+100761,26-35,Male,Maharashtra,B30,4700.0
+100762,18-25,Male,Tamil Nadu,T30,5500.0
+100763,26-35,Male,Uttar Pradesh,T30,3300.0
+100764,36-45,Male,Maharashtra,T30,11600.0
+100765,26-35,Male,Haryana,T30,5000.0
+100766,60+,Male,Tamil Nadu,B30,2000.0
+100767,46-60,Female,West Bengal,T30,7500.0
+100768,26-35,Male,Tamil Nadu,T30,4200.0
+100769,18-25,Female,Karnataka,T30,1500.0
+100770,26-35,Male,Haryana,B30,4100.0
+100771,18-25,Other,Delhi,B30,1600.0
+100772,26-35,Female,Delhi,B30,3600.0
+100773,46-60,Male,Tamil Nadu,T30,12400.0
+100774,26-35,Female,Uttar Pradesh,T30,3300.0
+100775,60+,Male,Tamil Nadu,T30,3000.0
+100776,18-25,Female,Uttar Pradesh,T30,900.0
+100777,36-45,Female,Tamil Nadu,T30,9300.0
+100778,26-35,Female,Karnataka,B30,11900.0
+100779,60+,Female,Uttar Pradesh,T30,1900.0
+100780,26-35,Male,Delhi,T30,5700.0
+100781,36-45,Female,Maharashtra,T30,10000.0
+100782,26-35,Male,Delhi,T30,4900.0
+100783,60+,Female,Delhi,B30,3100.0
+100784,18-25,Female,Haryana,B30,700.0
+100785,26-35,Female,Delhi,B30,3200.0
+100786,46-60,Male,Karnataka,T30,5000.0
+100787,36-45,Female,Gujarat,T30,6200.0
+100788,26-35,Male,West Bengal,T30,8800.0
+100789,46-60,Female,Delhi,B30,19000.0
+100790,26-35,Male,Delhi,T30,9000.0
+100791,26-35,Female,Maharashtra,B30,4700.0
+100792,26-35,Male,West Bengal,B30,2800.0
+100793,18-25,Female,Delhi,T30,900.0
+100794,46-60,Male,Delhi,T30,6000.0
+100795,46-60,Female,West Bengal,T30,3500.0
+100796,18-25,Male,Tamil Nadu,T30,2500.0
+100797,36-45,Female,Maharashtra,T30,14300.0
+100798,36-45,Female,Tamil Nadu,T30,6600.0
+100799,26-35,Male,Uttar Pradesh,B30,5200.0
+100800,18-25,Male,Maharashtra,T30,1800.0
+100801,36-45,Female,Maharashtra,B30,6400.0
+100802,26-35,Male,Maharashtra,B30,1100.0
+100803,36-45,Male,West Bengal,T30,11300.0
+100804,36-45,Male,Delhi,T30,14800.0
+100805,46-60,Male,Gujarat,B30,6800.0
+100806,36-45,Female,Gujarat,T30,6900.0
+100807,60+,Male,Tamil Nadu,B30,1600.0
+100808,26-35,Male,Karnataka,T30,6900.0
+100809,36-45,Female,Maharashtra,T30,2200.0
+100810,26-35,Male,Uttar Pradesh,T30,2300.0
+100811,46-60,Female,Uttar Pradesh,T30,7100.0
+100812,18-25,Female,Karnataka,B30,2100.0
+100813,26-35,Male,Delhi,T30,6900.0
+100814,36-45,Male,Tamil Nadu,T30,9400.0
+100815,60+,Male,Tamil Nadu,T30,6400.0
+100816,36-45,Male,Tamil Nadu,T30,4000.0
+100817,60+,Female,Maharashtra,T30,1600.0
+100818,36-45,Male,Uttar Pradesh,T30,4100.0
+100819,36-45,Male,Karnataka,B30,3000.0
+100820,60+,Male,Gujarat,T30,2000.0
+100821,36-45,Male,Gujarat,B30,9000.0
+100822,26-35,Male,Maharashtra,T30,2500.0
+100823,36-45,Other,Tamil Nadu,B30,8000.0
+100824,26-35,Female,Maharashtra,T30,5100.0
+100825,26-35,Male,Maharashtra,B30,3800.0
+100826,36-45,Male,Karnataka,B30,11400.0
+100827,18-25,Male,Maharashtra,T30,1000.0
+100828,36-45,Male,Delhi,T30,3900.0
+100829,60+,Male,Delhi,B30,1000.0
+100830,26-35,Other,Gujarat,B30,4000.0
+100831,46-60,Female,Delhi,B30,2500.0
+100832,46-60,Male,Delhi,B30,1500.0
+100833,36-45,Male,Maharashtra,T30,9500.0
+100834,26-35,Male,Gujarat,B30,6400.0
+100835,26-35,Male,Karnataka,T30,2200.0
+100836,26-35,Female,Uttar Pradesh,B30,5600.0
+100837,26-35,Male,Uttar Pradesh,B30,3600.0
+100838,26-35,Male,Tamil Nadu,B30,6900.0
+100839,36-45,Female,Tamil Nadu,T30,6100.0
+100840,26-35,Female,Haryana,T30,4900.0
+100841,26-35,Male,Uttar Pradesh,B30,3100.0
+100842,26-35,Female,Tamil Nadu,T30,7800.0
+100843,26-35,Male,Uttar Pradesh,T30,2500.0
+100844,26-35,Female,Uttar Pradesh,T30,19300.0
+100845,36-45,Male,Uttar Pradesh,T30,5700.0
+100846,36-45,Female,Karnataka,T30,3200.0
+100847,18-25,Male,Tamil Nadu,T30,4200.0
+100848,26-35,Male,Maharashtra,B30,11000.0
+100849,18-25,Male,West Bengal,T30,2100.0
+100850,26-35,Male,Gujarat,T30,2300.0
+100851,26-35,Female,Maharashtra,T30,7400.0
+100852,36-45,Female,Karnataka,T30,3500.0
+100853,26-35,Female,Delhi,B30,2800.0
+100854,26-35,Male,West Bengal,T30,3300.0
+100855,36-45,Male,Tamil Nadu,T30,9900.0
+100856,26-35,Female,Uttar Pradesh,B30,5800.0
+100857,26-35,Female,Delhi,B30,1300.0
+100858,36-45,Female,Karnataka,B30,5000.0
+100859,18-25,Female,Karnataka,T30,1800.0
+100860,18-25,Female,Haryana,T30,1700.0
+100861,36-45,Female,Uttar Pradesh,B30,13800.0
+100862,36-45,Male,Maharashtra,T30,10700.0
+100863,26-35,Female,Maharashtra,T30,5200.0
+100864,36-45,Female,West Bengal,B30,23000.0
+100865,26-35,Male,Delhi,B30,11200.0
+100866,18-25,Male,Tamil Nadu,T30,2700.0
+100867,26-35,Male,Gujarat,B30,3700.0
+100868,36-45,Female,West Bengal,T30,4200.0
+100869,18-25,Male,Uttar Pradesh,T30,1100.0
+100870,26-35,Female,Tamil Nadu,T30,5800.0
+100871,46-60,Male,Tamil Nadu,T30,6100.0
+100872,18-25,Male,Maharashtra,T30,1000.0
+100873,26-35,Male,Gujarat,T30,1300.0
+100874,18-25,Male,Tamil Nadu,B30,1100.0
+100875,36-45,Male,Maharashtra,T30,6400.0
+100876,26-35,Female,Maharashtra,B30,2400.0
+100877,36-45,Female,Haryana,B30,5100.0
+100878,26-35,Male,Karnataka,B30,3200.0
+100879,18-25,Female,Maharashtra,B30,1700.0
+100880,26-35,Male,Maharashtra,B30,3400.0
+100881,26-35,Male,Maharashtra,B30,6000.0
+100882,18-25,Male,Tamil Nadu,B30,1800.0
+100883,46-60,Male,Uttar Pradesh,T30,8000.0
+100884,26-35,Male,Delhi,B30,4300.0
+100885,26-35,Male,Delhi,T30,10200.0
+100886,26-35,Female,Tamil Nadu,T30,7300.0
+100887,36-45,Female,Karnataka,T30,5700.0
+100888,36-45,Female,Maharashtra,B30,3700.0
+100889,26-35,Female,Karnataka,T30,2300.0
+100890,36-45,Female,West Bengal,T30,4700.0
+100891,26-35,Female,West Bengal,B30,2200.0
+100892,36-45,Male,Uttar Pradesh,T30,12100.0
+100893,26-35,Male,Gujarat,T30,6000.0
+100894,36-45,Male,Maharashtra,T30,4500.0
+100895,46-60,Male,Maharashtra,B30,25800.0
+100896,36-45,Male,Delhi,T30,8100.0
+100897,26-35,Male,Haryana,T30,2800.0
+100898,26-35,Male,Maharashtra,T30,2300.0
+100899,36-45,Male,Uttar Pradesh,T30,5700.0
+100900,18-25,Male,Maharashtra,T30,5500.0
+100901,46-60,Female,Karnataka,B30,8100.0
+100902,26-35,Female,Delhi,T30,7100.0
+100903,36-45,Female,Uttar Pradesh,T30,5100.0
+100904,26-35,Male,Tamil Nadu,T30,2800.0
+100905,26-35,Male,Karnataka,B30,7200.0
+100906,26-35,Female,Delhi,T30,4400.0
+100907,46-60,Male,Tamil Nadu,T30,3500.0
+100908,46-60,Male,Delhi,T30,12900.0
+100909,18-25,Male,Maharashtra,T30,2100.0
+100910,26-35,Male,Maharashtra,T30,4500.0
+100911,26-35,Female,Haryana,B30,4300.0
+100912,26-35,Female,Tamil Nadu,B30,3600.0
+100913,36-45,Female,Tamil Nadu,T30,13100.0
+100914,46-60,Male,Gujarat,T30,6400.0
+100915,26-35,Male,Maharashtra,B30,10500.0
+100916,26-35,Male,Delhi,B30,2400.0
+100917,36-45,Male,West Bengal,T30,10100.0
+100918,26-35,Female,Karnataka,B30,9300.0
+100919,36-45,Male,Delhi,B30,18100.0
+100920,26-35,Male,Maharashtra,B30,4600.0
+100921,18-25,Male,Delhi,B30,1000.0
+100922,26-35,Male,Maharashtra,T30,4500.0
+100923,26-35,Male,Maharashtra,T30,5500.0
+100924,18-25,Female,Maharashtra,T30,2400.0
+100925,36-45,Male,Delhi,B30,10100.0
+100926,26-35,Female,Uttar Pradesh,T30,1200.0
+100927,18-25,Female,Tamil Nadu,T30,1700.0
+100928,46-60,Female,Gujarat,B30,6700.0
+100929,26-35,Male,Tamil Nadu,T30,7000.0
+100930,26-35,Male,Karnataka,T30,6600.0
+100931,36-45,Male,Maharashtra,T30,4400.0
+100932,60+,Female,Maharashtra,T30,2000.0
+100933,26-35,Female,West Bengal,T30,1400.0
+100934,26-35,Male,Karnataka,B30,2000.0
+100935,36-45,Female,Maharashtra,T30,4900.0
+100936,18-25,Female,Maharashtra,B30,1700.0
+100937,46-60,Female,West Bengal,B30,6800.0
+100938,18-25,Male,Karnataka,T30,1600.0
+100939,18-25,Male,Delhi,T30,2100.0
+100940,46-60,Male,Maharashtra,B30,6100.0
+100941,26-35,Female,Uttar Pradesh,B30,5600.0
+100942,46-60,Male,Delhi,T30,3900.0
+100943,46-60,Female,Karnataka,B30,4700.0
+100944,46-60,Male,Karnataka,B30,8300.0
+100945,26-35,Male,West Bengal,T30,3200.0
+100946,36-45,Female,Gujarat,T30,5400.0
+100947,26-35,Male,Maharashtra,B30,4400.0
+100948,36-45,Female,Maharashtra,T30,3300.0
+100949,26-35,Male,Uttar Pradesh,B30,2400.0
+100950,36-45,Male,West Bengal,B30,13700.0
+100951,26-35,Male,Haryana,B30,4400.0
+100952,18-25,Male,Maharashtra,B30,1500.0
+100953,26-35,Male,Maharashtra,T30,6400.0
+100954,26-35,Male,Gujarat,B30,8700.0
+100955,26-35,Male,Tamil Nadu,T30,4200.0
+100956,26-35,Female,Gujarat,T30,2100.0
+100957,60+,Male,Karnataka,T30,1100.0
+100958,46-60,Male,Tamil Nadu,B30,10000.0
+100959,46-60,Male,Tamil Nadu,T30,9900.0
+100960,26-35,Male,Delhi,T30,7100.0
+100961,36-45,Female,Tamil Nadu,T30,6700.0
+100962,26-35,Female,Karnataka,B30,5200.0
+100963,46-60,Female,Maharashtra,T30,2100.0
+100964,36-45,Female,Karnataka,T30,11900.0
+100965,36-45,Female,Tamil Nadu,B30,5700.0
+100966,36-45,Female,Karnataka,T30,8800.0
+100967,26-35,Female,Uttar Pradesh,B30,4400.0
+100968,26-35,Male,Maharashtra,T30,1600.0
+100969,60+,Female,Maharashtra,T30,5800.0
+100970,26-35,Female,Maharashtra,T30,11500.0
+100971,36-45,Male,West Bengal,T30,1300.0
+100972,26-35,Female,Delhi,T30,2500.0
+100973,36-45,Female,Maharashtra,T30,3600.0
+100974,26-35,Other,Gujarat,B30,4600.0
+100975,18-25,Male,Karnataka,B30,1100.0
+100976,26-35,Male,West Bengal,T30,6200.0
+100977,26-35,Female,West Bengal,T30,2300.0
+100978,26-35,Male,Gujarat,T30,8900.0
+100979,26-35,Female,Gujarat,B30,6300.0
+100980,18-25,Male,West Bengal,B30,1700.0
+100981,36-45,Male,Karnataka,B30,4500.0
+100982,26-35,Male,Karnataka,T30,2300.0
+100983,26-35,Male,Karnataka,T30,11900.0
+100984,36-45,Female,Haryana,B30,8300.0
+100985,46-60,Male,Karnataka,T30,8500.0
+100986,18-25,Female,West Bengal,T30,2300.0
+100987,26-35,Male,Tamil Nadu,T30,7000.0
+100988,26-35,Female,Gujarat,T30,5000.0
+100989,46-60,Male,Delhi,B30,3000.0
+100990,18-25,Male,Haryana,T30,3800.0
+100991,46-60,Male,Tamil Nadu,B30,4600.0
+100992,18-25,Male,Haryana,B30,1700.0
+100993,18-25,Female,Maharashtra,B30,4200.0
+100994,36-45,Male,Haryana,T30,5200.0
+100995,60+,Female,Karnataka,T30,5200.0
+100996,36-45,Female,Delhi,B30,4900.0
+100997,46-60,Female,Delhi,T30,6700.0
+100998,36-45,Male,Maharashtra,B30,4200.0
+100999,26-35,Male,Uttar Pradesh,T30,5400.0
