@@ -1,0 +1,41 @@
+alpha_rank,scheme_code,scheme_name,category,alpha,beta,sharpe_ratio,sortino_ratio,tracking_error_nifty50,tracking_error_nifty100,scorecard
+1,100007,DSP Sectoral Fund - Direct,Equity,15.62,1.2622,1.2056,2.0304,19.44,19.37,76.38
+2,100010,Tata Sectoral Fund - Direct,Equity,13.03,0.7771,0.9541,1.5847,18.56,18.69,70.38
+3,100025,Axis Sectoral Fund - Direct,Equity,11.43,0.693,0.8136,1.3208,19.47,19.65,84.88
+4,100009,UTI Balanced Advantage Fund - Direct,Hybrid,10.06,0.4504,0.9211,1.4731,13.58,13.82,83.25
+5,100033,ICICI Balanced Advantage Fund - Direct,Hybrid,9.9,0.539,0.974,1.6937,13.12,13.29,75.38
+6,100039,UTI Aggressive Hybrid Fund - Direct,Hybrid,9.43,0.4588,0.8713,1.4608,13.46,13.69,78.62
+7,100018,Aditya Aggressive Hybrid Fund - Direct,Hybrid,8.72,0.4782,0.8565,1.4176,13.45,13.62,72.75
+8,100027,DSP Aggressive Hybrid Fund - Direct,Hybrid,7.78,0.6393,0.8927,1.5477,12.11,12.25,81.38
+9,100012,HDFC Balanced Advantage Fund - Direct,Hybrid,7.06,0.4526,0.6901,1.1278,13.25,13.38,82.88
+10,100032,HDFC Corporate Bond Fund - Direct,Debt,6.03,0.2737,0.8931,1.5279,10.75,10.93,63.25
+11,100016,Kotak Small Cap Fund - Direct,Equity,5.14,0.7057,0.5484,0.9251,18.82,18.9,64.38
+12,100017,DSP Gilt Fund Fund - Direct,Debt,4.84,0.1771,0.4008,0.6859,12.09,12.31,40.0
+13,100014,Nippon Gilt Fund Fund - Direct,Debt,4.42,0.2379,0.5022,0.8823,11.35,11.52,58.62
+14,100008,Aditya Liquid Fund Fund - Direct,Debt,3.52,0.2592,0.3709,0.601,11.11,11.34,44.94
+15,100003,ICICI Aggressive Hybrid Fund - Direct,Hybrid,3.09,0.6084,0.546,0.92,12.8,12.8,64.25
+16,100026,Kotak Gilt Fund Fund - Direct,Debt,2.25,0.1333,-0.4698,-0.7922,12.82,12.99,41.38
+17,100020,Tata Liquid Fund Fund - Direct,Debt,2.07,0.1497,-0.4149,-0.7117,12.46,12.64,47.12
+18,100028,Aditya Sectoral Fund - Direct,Equity,1.78,0.9985,0.5688,0.9255,19.72,19.72,64.0
+19,100022,HDFC Mid Cap Fund - Direct,Equity,1.63,0.8962,0.5165,0.8864,18.43,18.42,69.38
+20,100004,Nippon Mid Cap Fund - Direct,Equity,1.54,0.8946,0.5139,0.857,18.17,18.25,62.88
+21,100023,ICICI Corporate Bond Fund - Direct,Debt,1.4,0.228,-0.1747,-0.2957,11.3,11.44,47.25
+22,100036,Kotak Multi Asset Allocation Fund - Direct,Hybrid,1.17,0.5313,0.3307,0.5608,13.01,13.13,40.94
+23,100034,Nippon Mid Cap Fund - Direct,Equity,0.17,1.0069,0.5111,0.8699,19.91,19.96,48.12
+24,100011,SBI Liquid Fund Fund - Direct,Debt,0.14,0.1455,-0.9267,-1.6286,12.6,12.8,27.88
+25,100040,Tata Large Cap Fund - Direct,Equity,0.1,0.8975,0.4511,0.7389,18.89,18.76,62.5
+26,100006,Kotak Aggressive Hybrid Fund - Direct,Hybrid,0.05,0.4476,0.1474,0.2441,13.53,13.68,37.62
+27,100035,Axis Gilt Fund Fund - Direct,Debt,0.04,0.1751,-0.7496,-1.2547,12.19,12.39,38.5
+28,100029,UTI Corporate Bond Fund - Direct,Debt,-0.27,0.2274,-0.5342,-0.9186,11.46,11.61,26.56
+29,100005,Axis Gilt Fund Fund - Direct,Debt,-0.88,0.1888,-0.8991,-1.5015,11.84,12.03,25.0
+30,100038,Aditya Liquid Fund Fund - Direct,Debt,-0.97,0.276,-0.4323,-0.708,10.81,10.99,30.38
+31,100002,HDFC Gilt Fund Fund - Direct,Debt,-1.49,0.2776,-0.5162,-0.8516,10.78,11.01,24.0
+32,100024,Nippon Multi Asset Allocation Fund - Direct,Hybrid,-2.08,0.426,-0.0451,-0.0792,14.05,14.0,36.88
+33,100021,SBI Aggressive Hybrid Fund - Direct,Hybrid,-2.49,0.7822,0.3525,0.5864,11.26,11.3,24.88
+34,100030,Tata Balanced Advantage Fund - Direct,Hybrid,-2.5,0.4058,-0.1105,-0.1834,13.82,13.83,26.12
+35,100015,Axis Multi Asset Allocation Fund - Direct,Hybrid,-3.0,0.5456,0.0537,0.0909,13.2,13.3,51.25
+36,100019,UTI Small Cap Fund - Direct,Equity,-3.33,1.166,0.4601,0.7532,19.23,19.23,35.88
+37,100013,ICICI Large Cap Fund - Direct,Equity,-4.77,1.2033,0.4248,0.6869,19.94,20.03,64.0
+38,100001,SBI Small Cap Fund - Direct,Equity,-6.63,1.1516,0.3295,0.5233,19.77,19.64,23.62
+39,100037,DSP Mid Cap Fund - Direct,Equity,-13.18,1.2835,0.1614,0.2677,19.74,19.88,34.0
+40,100031,SBI Large Cap Fund - Direct,Equity,-16.64,0.658,-0.4998,-0.8285,19.35,19.44,18.56
