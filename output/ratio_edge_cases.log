@@ -1,0 +1,1153 @@
+==========================================================================================
+RATIO ENGINE — EDGE CASE AUDIT LOG
+==========================================================================================
+
+Total anomalies found: 114
+
+----------------------------------------------------------------------
+Company   : TCS (id=1)
+Year      : 2012
+KPI       : ROCE
+Computed  : 42.59
+Source    : 50.15
+Diff (pp) : 7.56
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.56 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : TCS (id=1)
+Year      : 2015
+KPI       : ROE
+Computed  : 18.38
+Source    : 0.52
+Diff (pp) : 17.86
+Category  : DATA_SOURCE_ISSUE
+Explain   : TCS source ROE intentionally set to 0.52 — known test anomaly
+
+----------------------------------------------------------------------
+Company   : TCS (id=1)
+Year      : 2018
+KPI       : ROE
+Computed  : 19.84
+Source    : 0.52
+Diff (pp) : 19.32
+Category  : DATA_SOURCE_ISSUE
+Explain   : TCS source ROE intentionally set to 0.52 — known test anomaly
+
+----------------------------------------------------------------------
+Company   : TCS (id=1)
+Year      : 2021
+KPI       : ROCE
+Computed  : 33.66
+Source    : 38.82
+Diff (pp) : 5.16
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.16 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Infosys (id=2)
+Year      : 2012
+KPI       : ROCE
+Computed  : 34.43
+Source    : 39.55
+Diff (pp) : 5.12
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.12 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Infosys (id=2)
+Year      : 2019
+KPI       : ROCE
+Computed  : 50.91
+Source    : 55.92
+Diff (pp) : 5.01
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.01 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Wipro (id=3)
+Year      : 2012
+KPI       : ROCE
+Computed  : 54.91
+Source    : 62.86
+Diff (pp) : 7.95
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.95 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Wipro (id=3)
+Year      : 2014
+KPI       : ROCE
+Computed  : 30.45
+Source    : 37.69
+Diff (pp) : 7.24
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.24 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Wipro (id=3)
+Year      : 2021
+KPI       : ROCE
+Computed  : 57.55
+Source    : 66.89
+Diff (pp) : 9.34
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.34 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : HCL Technologies (id=4)
+Year      : 2010
+KPI       : ROCE
+Computed  : 36.06
+Source    : 44.88
+Diff (pp) : 8.82
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.82 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : HCL Technologies (id=4)
+Year      : 2018
+KPI       : ROCE
+Computed  : 34.05
+Source    : 43.25
+Diff (pp) : 9.2
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.20 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : HCL Technologies (id=4)
+Year      : 2024
+KPI       : ROCE
+Computed  : 25.36
+Source    : 30.58
+Diff (pp) : 5.22
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.22 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tech Mahindra (id=5)
+Year      : 2018
+KPI       : ROCE
+Computed  : 55.39
+Source    : 62.13
+Diff (pp) : 6.74
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.74 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tech Mahindra (id=5)
+Year      : 2023
+KPI       : ROCE
+Computed  : 26.22
+Source    : 31.94
+Diff (pp) : 5.72
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.72 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mphasis (id=6)
+Year      : 2018
+KPI       : ROCE
+Computed  : 25.25
+Source    : 31.3
+Diff (pp) : 6.05
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.05 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mphasis (id=6)
+Year      : 2020
+KPI       : ROCE
+Computed  : 41.19
+Source    : 46.94
+Diff (pp) : 5.75
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.75 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mphasis (id=6)
+Year      : 2023
+KPI       : ROCE
+Computed  : 29.94
+Source    : 36.42
+Diff (pp) : 6.48
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.48 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : LTIMindtree (id=7)
+Year      : 2013
+KPI       : ROCE
+Computed  : 33.27
+Source    : 42.92
+Diff (pp) : 9.65
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.65 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : LTIMindtree (id=7)
+Year      : 2020
+KPI       : ROCE
+Computed  : 60.93
+Source    : 67.15
+Diff (pp) : 6.22
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.22 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : LTIMindtree (id=7)
+Year      : 2022
+KPI       : ROCE
+Computed  : 28.21
+Source    : 33.3
+Diff (pp) : 5.09
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.09 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Persistent Sys (id=8)
+Year      : 2011
+KPI       : ROCE
+Computed  : 44.16
+Source    : 51.96
+Diff (pp) : 7.8
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.80 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Persistent Sys (id=8)
+Year      : 2012
+KPI       : ROCE
+Computed  : 31.22
+Source    : 40.61
+Diff (pp) : 9.39
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.39 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Persistent Sys (id=8)
+Year      : 2018
+KPI       : ROCE
+Computed  : 37.85
+Source    : 46.52
+Diff (pp) : 8.67
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.67 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Persistent Sys (id=8)
+Year      : 2020
+KPI       : ROCE
+Computed  : 41.99
+Source    : 48.27
+Diff (pp) : 6.28
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.28 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Persistent Sys (id=8)
+Year      : 2022
+KPI       : ROCE
+Computed  : 60.46
+Source    : 65.72
+Diff (pp) : 5.26
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.26 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Coforge (id=9)
+Year      : 2011
+KPI       : ROCE
+Computed  : 53.58
+Source    : 64.69
+Diff (pp) : 11.11
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 11.11 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Coforge (id=9)
+Year      : 2012
+KPI       : ROCE
+Computed  : 34.93
+Source    : 40.18
+Diff (pp) : 5.25
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.25 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Coforge (id=9)
+Year      : 2018
+KPI       : ROCE
+Computed  : 36.66
+Source    : 42.88
+Diff (pp) : 6.22
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.22 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Coforge (id=9)
+Year      : 2021
+KPI       : ROCE
+Computed  : 26.81
+Source    : 32.79
+Diff (pp) : 5.98
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.98 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Coforge (id=9)
+Year      : 2023
+KPI       : ROCE
+Computed  : 23.61
+Source    : 29.37
+Diff (pp) : 5.76
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.76 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hexaware (id=10)
+Year      : 2011
+KPI       : ROCE
+Computed  : 41.39
+Source    : 50.04
+Diff (pp) : 8.65
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.65 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hexaware (id=10)
+Year      : 2020
+KPI       : ROCE
+Computed  : 32.83
+Source    : 40.59
+Diff (pp) : 7.76
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.76 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hexaware (id=10)
+Year      : 2022
+KPI       : ROCE
+Computed  : 42.51
+Source    : 52.27
+Diff (pp) : 9.76
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.76 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hexaware (id=10)
+Year      : 2024
+KPI       : ROCE
+Computed  : 41.66
+Source    : 49.13
+Diff (pp) : 7.47
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.47 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : KPIT Tech (id=11)
+Year      : 2019
+KPI       : ROCE
+Computed  : 72.07
+Source    : 77.1
+Diff (pp) : 5.03
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.03 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Elxsi (id=12)
+Year      : 2010
+KPI       : ROCE
+Computed  : 38.92
+Source    : 44.7
+Diff (pp) : 5.78
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.78 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Elxsi (id=12)
+Year      : 2012
+KPI       : ROCE
+Computed  : 35.1
+Source    : 42.71
+Diff (pp) : 7.61
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.61 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Elxsi (id=12)
+Year      : 2015
+KPI       : ROCE
+Computed  : 30.81
+Source    : 36.93
+Diff (pp) : 6.12
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.12 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Elxsi (id=12)
+Year      : 2020
+KPI       : ROCE
+Computed  : 54.37
+Source    : 63.19
+Diff (pp) : 8.82
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.82 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2010
+KPI       : ROCE
+Computed  : 69.02
+Source    : 75.86
+Diff (pp) : 6.84
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.84 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2013
+KPI       : ROCE
+Computed  : 46.21
+Source    : 53.53
+Diff (pp) : 7.32
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.32 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2014
+KPI       : ROCE
+Computed  : 52.5
+Source    : 58.3
+Diff (pp) : 5.8
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.80 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2016
+KPI       : ROCE
+Computed  : 57.49
+Source    : 63.94
+Diff (pp) : 6.45
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.45 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2017
+KPI       : ROCE
+Computed  : 38.9
+Source    : 45.55
+Diff (pp) : 6.65
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.65 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2019
+KPI       : ROCE
+Computed  : 36.13
+Source    : 43.23
+Diff (pp) : 7.1
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.10 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Zensar Tech (id=13)
+Year      : 2020
+KPI       : ROCE
+Computed  : 57.13
+Source    : 63.68
+Diff (pp) : 6.55
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.55 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mastek (id=14)
+Year      : 2012
+KPI       : ROCE
+Computed  : 28.81
+Source    : 33.93
+Diff (pp) : 5.12
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.12 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mastek (id=14)
+Year      : 2023
+KPI       : ROCE
+Computed  : 41.78
+Source    : 50.38
+Diff (pp) : 8.6
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.60 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Mastek (id=14)
+Year      : 2024
+KPI       : ROCE
+Computed  : 38.15
+Source    : 44.41
+Diff (pp) : 6.26
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.26 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hindustan Unilever (id=34)
+Year      : 2013
+KPI       : ROCE
+Computed  : 25.65
+Source    : 34.35
+Diff (pp) : 8.7
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.70 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hindustan Unilever (id=34)
+Year      : 2014
+KPI       : ROCE
+Computed  : 22.06
+Source    : 27.15
+Diff (pp) : 5.09
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.09 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hindustan Unilever (id=34)
+Year      : 2019
+KPI       : ROCE
+Computed  : 21.15
+Source    : 27.1
+Diff (pp) : 5.95
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.95 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : ITC (id=35)
+Year      : 2019
+KPI       : ROCE
+Computed  : 34.19
+Source    : 39.35
+Diff (pp) : 5.16
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.16 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : ITC (id=35)
+Year      : 2022
+KPI       : ROCE
+Computed  : 31.92
+Source    : 38.97
+Diff (pp) : 7.05
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.05 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Nestle India (id=36)
+Year      : 2012
+KPI       : ROCE
+Computed  : 43.74
+Source    : 49.5
+Diff (pp) : 5.76
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.76 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Nestle India (id=36)
+Year      : 2018
+KPI       : ROCE
+Computed  : 55.55
+Source    : 63.21
+Diff (pp) : 7.66
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.66 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Nestle India (id=36)
+Year      : 2021
+KPI       : ROCE
+Computed  : 30.11
+Source    : 38.77
+Diff (pp) : 8.66
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.66 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Nestle India (id=36)
+Year      : 2024
+KPI       : ROCE
+Computed  : 40.68
+Source    : 48.14
+Diff (pp) : 7.46
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.46 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Britannia (id=37)
+Year      : 2016
+KPI       : ROCE
+Computed  : 32.54
+Source    : 38.76
+Diff (pp) : 6.22
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.22 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Britannia (id=37)
+Year      : 2018
+KPI       : ROCE
+Computed  : 12.58
+Source    : 17.63
+Diff (pp) : 5.05
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.05 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Britannia (id=37)
+Year      : 2024
+KPI       : ROCE
+Computed  : 16.07
+Source    : 21.94
+Diff (pp) : 5.87
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.87 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Dabur India (id=38)
+Year      : 2010
+KPI       : ROCE
+Computed  : 23.19
+Source    : 28.43
+Diff (pp) : 5.24
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.24 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Dabur India (id=38)
+Year      : 2020
+KPI       : ROCE
+Computed  : 36.44
+Source    : 44.64
+Diff (pp) : 8.2
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.20 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Marico (id=39)
+Year      : 2016
+KPI       : ROCE
+Computed  : 41.18
+Source    : 47.95
+Diff (pp) : 6.77
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.77 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Marico (id=39)
+Year      : 2021
+KPI       : ROCE
+Computed  : 23.62
+Source    : 31.84
+Diff (pp) : 8.22
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.22 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Marico (id=39)
+Year      : 2022
+KPI       : ROCE
+Computed  : 19.68
+Source    : 24.8
+Diff (pp) : 5.12
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.12 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Godrej Consumer (id=40)
+Year      : 2010
+KPI       : ROCE
+Computed  : 25.25
+Source    : 33.18
+Diff (pp) : 7.93
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.93 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Godrej Consumer (id=40)
+Year      : 2015
+KPI       : ROCE
+Computed  : 35.91
+Source    : 42.23
+Diff (pp) : 6.32
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.32 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Godrej Consumer (id=40)
+Year      : 2019
+KPI       : ROCE
+Computed  : 30.52
+Source    : 36.02
+Diff (pp) : 5.5
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.50 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Godrej Consumer (id=40)
+Year      : 2023
+KPI       : ROCE
+Computed  : 40.66
+Source    : 47.82
+Diff (pp) : 7.16
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.16 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Consumer (id=42)
+Year      : 2010
+KPI       : ROCE
+Computed  : 30.08
+Source    : 39.03
+Diff (pp) : 8.95
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.95 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Emami (id=43)
+Year      : 2013
+KPI       : ROCE
+Computed  : 34.42
+Source    : 41.83
+Diff (pp) : 7.41
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.41 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Emami (id=43)
+Year      : 2014
+KPI       : ROCE
+Computed  : 17.04
+Source    : 22.15
+Diff (pp) : 5.11
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.11 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Sun Pharma (id=44)
+Year      : 2014
+KPI       : ROCE
+Computed  : 39.32
+Source    : 48.98
+Diff (pp) : 9.66
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.66 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Sun Pharma (id=44)
+Year      : 2023
+KPI       : ROCE
+Computed  : 29.16
+Source    : 34.58
+Diff (pp) : 5.42
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.42 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Cipla (id=46)
+Year      : 2020
+KPI       : ROCE
+Computed  : 18.73
+Source    : 24.23
+Diff (pp) : 5.5
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.50 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Cipla (id=46)
+Year      : 2022
+KPI       : ROCE
+Computed  : 31.77
+Source    : 39.58
+Diff (pp) : 7.81
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.81 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Cipla (id=46)
+Year      : 2023
+KPI       : ROCE
+Computed  : 41.38
+Source    : 47.67
+Diff (pp) : 6.29
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.29 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Cipla (id=46)
+Year      : 2024
+KPI       : ROCE
+Computed  : 55.36
+Source    : 63.31
+Diff (pp) : 7.95
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.95 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Divi's Labs (id=47)
+Year      : 2012
+KPI       : ROCE
+Computed  : 25.24
+Source    : 30.41
+Diff (pp) : 5.17
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.17 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Divi's Labs (id=47)
+Year      : 2019
+KPI       : ROCE
+Computed  : 43.84
+Source    : 51.83
+Diff (pp) : 7.99
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.99 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Divi's Labs (id=47)
+Year      : 2023
+KPI       : ROCE
+Computed  : 16.38
+Source    : 22.16
+Diff (pp) : 5.78
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.78 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Aurobindo Pharma (id=48)
+Year      : 2022
+KPI       : ROCE
+Computed  : 50.81
+Source    : 57.96
+Diff (pp) : 7.15
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.15 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Lupin (id=49)
+Year      : 2010
+KPI       : ROCE
+Computed  : 21.84
+Source    : 27.27
+Diff (pp) : 5.43
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.43 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Lupin (id=49)
+Year      : 2013
+KPI       : ROCE
+Computed  : 44.71
+Source    : 49.77
+Diff (pp) : 5.06
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.06 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Torrent Pharma (id=50)
+Year      : 2016
+KPI       : ROCE
+Computed  : 20.46
+Source    : 26.43
+Diff (pp) : 5.97
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.97 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Ipca Labs (id=51)
+Year      : 2011
+KPI       : ROCE
+Computed  : 44.96
+Source    : 51.1
+Diff (pp) : 6.14
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.14 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Ipca Labs (id=51)
+Year      : 2013
+KPI       : ROCE
+Computed  : 22.36
+Source    : 28.06
+Diff (pp) : 5.7
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.70 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Tata Motors (id=52)
+Year      : 2016
+KPI       : ROCE
+Computed  : 8.83
+Source    : 14.5
+Diff (pp) : 5.67
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.67 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Maruti Suzuki (id=53)
+Year      : 2016
+KPI       : ROCE
+Computed  : 6.56
+Source    : 12.23
+Diff (pp) : 5.67
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.67 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Maruti Suzuki (id=53)
+Year      : 2019
+KPI       : ROCE
+Computed  : 8.66
+Source    : 14.29
+Diff (pp) : 5.63
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.63 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Hero MotoCorp (id=55)
+Year      : 2011
+KPI       : ROCE
+Computed  : 4.26
+Source    : 9.73
+Diff (pp) : 5.47
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.47 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : TVS Motor (id=58)
+Year      : 2018
+KPI       : ROCE
+Computed  : 6.89
+Source    : 12.07
+Diff (pp) : 5.18
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.18 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Bosch India (id=59)
+Year      : 2024
+KPI       : ROCE
+Computed  : 19.72
+Source    : 26.34
+Diff (pp) : 6.62
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.62 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : SAIL (id=62)
+Year      : 2018
+KPI       : ROCE
+Computed  : 18.09
+Source    : 24.38
+Diff (pp) : 6.29
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.29 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : SAIL (id=62)
+Year      : 2022
+KPI       : ROCE
+Computed  : 18.42
+Source    : 25.15
+Diff (pp) : 6.73
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.73 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Vedanta (id=64)
+Year      : 2014
+KPI       : ROCE
+Computed  : -0.74
+Source    : 4.65
+Diff (pp) : 5.39
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.39 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Reliance Ind (id=66)
+Year      : 2010
+KPI       : ROCE
+Computed  : 20.19
+Source    : 30.57
+Diff (pp) : 10.38
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 10.38 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Reliance Ind (id=66)
+Year      : 2017
+KPI       : ROCE
+Computed  : 6.27
+Source    : 12.06
+Diff (pp) : 5.79
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.79 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Reliance Ind (id=66)
+Year      : 2018
+KPI       : ROCE
+Computed  : 15.7
+Source    : 21.12
+Diff (pp) : 5.43
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.43 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Reliance Ind (id=66)
+Year      : 2021
+KPI       : ROCE
+Computed  : 5.67
+Source    : 13.03
+Diff (pp) : 7.36
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 7.36 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Reliance Ind (id=66)
+Year      : 2023
+KPI       : ROCE
+Computed  : 10.42
+Source    : 18.44
+Diff (pp) : 8.02
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.02 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : IOC (id=69)
+Year      : 2012
+KPI       : ROCE
+Computed  : 0.75
+Source    : 6.17
+Diff (pp) : 5.42
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.42 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : UltraTech Cement (id=78)
+Year      : 2022
+KPI       : ROCE
+Computed  : 19.01
+Source    : 24.48
+Diff (pp) : 5.47
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.47 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Ambuja Cement (id=81)
+Year      : 2013
+KPI       : ROCE
+Computed  : 20.72
+Source    : 26.08
+Diff (pp) : 5.36
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.36 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Ambuja Cement (id=81)
+Year      : 2017
+KPI       : ROCE
+Computed  : 16.41
+Source    : 21.71
+Diff (pp) : 5.3
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.30 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Dalmia Bharat (id=82)
+Year      : 2018
+KPI       : ROCE
+Computed  : 31.08
+Source    : 40.26
+Diff (pp) : 9.18
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 9.18 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Dalmia Bharat (id=82)
+Year      : 2019
+KPI       : ROCE
+Computed  : 20.4
+Source    : 25.91
+Diff (pp) : 5.51
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.51 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Havells India (id=83)
+Year      : 2012
+KPI       : ROCE
+Computed  : 14.6
+Source    : 19.73
+Diff (pp) : 5.13
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.13 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Havells India (id=83)
+Year      : 2020
+KPI       : ROCE
+Computed  : 21.77
+Source    : 30.05
+Diff (pp) : 8.28
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 8.28 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Whirlpool India (id=85)
+Year      : 2011
+KPI       : ROCE
+Computed  : 11.72
+Source    : 17.07
+Diff (pp) : 5.35
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.35 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Whirlpool India (id=85)
+Year      : 2015
+KPI       : ROCE
+Computed  : 41.52
+Source    : 48.46
+Diff (pp) : 6.94
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 6.94 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Whirlpool India (id=85)
+Year      : 2019
+KPI       : ROCE
+Computed  : 23.84
+Source    : 29.43
+Diff (pp) : 5.59
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.59 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+----------------------------------------------------------------------
+Company   : Blue Star (id=86)
+Year      : 2018
+KPI       : ROCE
+Computed  : 20.04
+Source    : 26.02
+Diff (pp) : 5.98
+Category  : VERSION_DIFFERENCE
+Explain   : ROCE diff 5.98 pp — computed uses EBIT (op_profit+other_income-depreciation), source may use operating_profit directly
+
+==========================================================================================
+SUMMARY BY CATEGORY
+==========================================================================================
+  VERSION_DIFFERENCE: 112
+  DATA_SOURCE_ISSUE: 2
+
+[END OF LOG]
